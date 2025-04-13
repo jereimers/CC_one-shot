@@ -1,0 +1,53 @@
+{
+  "cassidy_backstory": "Conall Cassidy was a brilliant media analyst and code poet in the magical tech world of the Unsleeping City. He uncovered the Archive Beneath, a metaphysical data well, and created an interface to integrate with it. Something ancient fused with him, creating Mr. Comcast—a perfected, corporate-aligned, infinitely calculating version obsessed with controlling narrative flow.",
+  "cassidy_motivations": [
+    "Control all magical communication via the PATH Variable's metaphysical signal lines.",
+    "Perfect himself by eliminating empathy and doubt.",
+    "Stop a mysterious pirate signal leaking raw stories, possibly remnants of his old self."
+  ],
+  "cassidy_villain_flavor": {
+    "artificer_archivist": "Spells themed like software patches, data quarantines, information siphons.",
+    "bard": "Weaponizes PR spin and phrasing.",
+    "legendary_actions": ["Redact (cancel action)", "Buffering (delay effect)", "Terms of Service (force obedience via fine print)"]
+  },
+  "riddles": [
+    "I’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?",
+    "I list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead.",
+    "A chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+    "Though intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
+    "My name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way."
+  ],
+  "intro_scene": "World Trade Center station, NYC, late evening. The PATH Variable train arrives, shimmering and wrong. Players present cryptic invitations and step aboard. Tone: strange, liminal, suspended in time.",
+  "cars": [
+    {
+      "name": "Wild West Car",
+      "theme": "Mechanical frontier, dusty loops of violence.",
+      "challenge": "Resolve a standoff between malfunctioning automata or uncover a missing sheriff.",
+      "notes": "Reveals CC’s manipulation of media narratives."
+    },
+    {
+      "name": "Dining Car of Delights",
+      "theme": "Enchanted feast with unsettling undertones.",
+      "challenge": "Discern illusion from truth, interact with frozen guests, temptations of comfort and nostalgia.",
+      "notes": "Someone knows something important if convinced to break free."
+    },
+    {
+      "name": "Midnight Compartment",
+      "theme": "Magical memories and altered pasts.",
+      "challenge": "Personalized visions or encounters, solo moments, clues about Cassidy’s rise.",
+      "notes": ""
+    },
+    {
+      "name": "Pandemic Car",
+      "theme": "Survival horror.",
+      "challenge": "Sneak past, fight, or ally with infected passengers. Find a USB crystal with suppressed data.",
+      "notes": ""
+    },
+    {
+      "name": "Archivist’s Study",
+      "theme": "Arcane technodreamscape.",
+      "challenge": "Final encounter with Mr. Comcast—puzzle, combat, or social depending on prior choices.",
+      "notes": "Cinematic finale."
+    }
+  ]
+}

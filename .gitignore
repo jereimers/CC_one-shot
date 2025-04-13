@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore VSCode workspace
+CC_one-shot.code-workspace
+
+# Ignore env file
+.env
+

@@ -1,0 +1,2 @@
+graft dnd_character/json_cache
+global-exclude *.pyc

@@ -1,0 +1,10 @@
+Done:
+---ensure character creator begins by presenting presets 
+---character creator needs to intelligently respond to requests for details about attributes, backstories, etc. with accurate and complete information
+---create manual chat-based trigger for character creation for me to use while testing
+
+Now:
+---update llm's dynamic system prompt to tell it to use a standard format when presenting ability score suggestions
+
+Later:
+---update dnd-character library with extended races, classes, backgrounds, etc. found in RAGdb (esp. Unearthed Arcana)

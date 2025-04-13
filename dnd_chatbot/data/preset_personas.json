@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Wayne Barack Jansen",
+    "archetype": "Celebrity brawler-turned-politician",
+    "public_role": "Governor of New Jersey, former MMA champion, surprise presidential hopeful with a popular YouTube channel 'Fist of the People'",
+    "invitation_reason": "His folksy charm and unmatched charisma make him a natural propaganda vector\u2014or a dangerous loose cannon.",
+    "secret_or_twist": "Did he sell workout supplements to kids? Did he 'accidentally' arm a militia?",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Vaultsy",
+    "archetype": "Infamous art thief / anonymous provocateur",
+    "public_role": "Allegedly a myth, but viral videos are real. Latest stunt: vanishing the Statue of Liberty\u2019s torch.",
+    "invitation_reason": "Art destabilizes narrative\u2014and Vaultsy\u2019s black-market mystique undermines the aesthetics of consumer control.",
+    "secret_or_twist": "Secretly a group? An AI? Next heist: Wikipedia.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Steph Efforts",
+    "archetype": "Reclusive tech innovator",
+    "public_role": "Creator of EffortNet, decentralized dream-storage. Speaks at TEDx via drone.",
+    "invitation_reason": "Dreams outside CC infrastructure threaten their control.",
+    "secret_or_twist": "Rumored replaced by a deepfake in 2023\u2026 no one noticed.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Camilla Bumblage",
+    "archetype": "Celebrity magic professor, influencer enchantment master",
+    "public_role": "Teaches at NYU Spelltisch, hosts 'Magic, Money & Manifesting'.",
+    "invitation_reason": "Her vast audience is spellbound\u2014but she hasn\u2019t fully sold out yet.",
+    "secret_or_twist": "Once hexed a sponsor live on air. Ratings never recovered.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Jordan Lumberpond",
+    "archetype": "Indie folk icon turned Grammy-winning pop star",
+    "public_role": "Known for soulful ballads, protest anthems, silence during 2024 Brand Wars.",
+    "invitation_reason": "Lyrics influence millions\u2014CC wants to license that influence.",
+    "secret_or_twist": "Losing their voice\u2014literally and metaphorically.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Winifred Goopington",
+    "archetype": "Wellness mogul, spiritual grifter, mystic celeb",
+    "public_role": "Founder of Goop&Glow, selling enlightenment crystals to sentient probiotics.",
+    "invitation_reason": "Already sells narratives\u2014CC wants to franchise her belief system.",
+    "secret_or_twist": "Might have achieved enlightenment\u2026 but mostly placebo.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Moose Griddles",
+    "archetype": "Survivalist YouTuber, cryptid hunter",
+    "public_role": "Known for 'I Drank My Own Pee in Times Square' and 'Bear Wrestling 101'.",
+    "invitation_reason": "Represents rugged independence\u2014unbrandable?",
+    "secret_or_twist": "Claims to have fought a Wi-Fi wendigo. CC believes him.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Ingrid Tienfj\u00f8rg",
+    "archetype": "Global activist, Nobel laureate, enemy of corporate greenwashing",
+    "public_role": "Founder of WorldHarmony, cross-planar social justice coalition.",
+    "invitation_reason": "Her moral clarity could ruin or legitimize CC\u2019s plans.",
+    "secret_or_twist": "Believes in redemption\u2026 even for CC.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  },
+  {
+    "name": "Dr. Hargrave Quennington Beauregard IV",
+    "archetype": "Southern gentleman detective",
+    "public_role": "Professor at Columbia, hosts 'Mystery, Mayhem & Mint Juleps' on PBS.",
+    "invitation_reason": "Solved every major crime\u2014except CC\u2019s.",
+    "secret_or_twist": "May have no magic at all\u2014just wit and charm.",
+    "claimed": false,
+    "class": "Fighter",
+    "ability_scores": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "background": "Folk Hero"
+  }
+]
