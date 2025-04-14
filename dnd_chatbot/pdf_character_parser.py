@@ -191,14 +191,22 @@ def parse_character_pdf(pdf_path: str) -> BaseCharacter | None:
 
         # --- Set Proficiencies (Saves & Skills) ---
         # Saving Throws
+        logger.debug(f"Type of character.saving_throws: {type(character.saving_throws)}") # Add logging
+        logger.debug(f"Value of character.saving_throws: {character.saving_throws}") # Add logging
         for save_ability, field_name in FIELD_MAP["saves"].items():
             is_proficient = get_field_value(fields, field_name, False) # Default to False if field missing/Off
             if is_proficient: # Checkbox value was /Yes or non-/Off
                 try:
-                    character.saving_throws[save_ability].proficient = True
-                    # logger.debug(f"Set saving throw proficiency for {save_ability} to True.")
+                    # Ensure saving_throws is accessed like a dict
+                    if isinstance(character.saving_throws, dict):
+                         character.saving_throws[save_ability].proficient = True
+                         # logger.debug(f"Set saving throw proficiency for {save_ability} to True.")
+                    else:
+                         logger.error(f"character.saving_throws is not a dict, but a {type(character.saving_throws)}. Cannot set proficiency for {save_ability}.")
                 except KeyError:
-                    logger.warning(f"Could not set saving throw proficiency for '{save_ability}'.")
+                    logger.warning(f"Could not set saving throw proficiency for '{save_ability}' (KeyError).")
+                except AttributeError:
+                     logger.warning(f"Could not set saving throw proficiency for '{save_ability}' (AttributeError - perhaps '{save_ability}' key exists but value has no 'proficient' attr?).")
 
         # Skills
         for skill_name, field_names in FIELD_MAP["skills"].items():

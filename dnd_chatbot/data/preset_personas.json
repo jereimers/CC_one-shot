@@ -8,12 +8,12 @@
     "claimed": false,
     "class": "Fighter",
     "ability_scores": [
-      15,
-      14,
+      16,
       13,
+      15,
       12,
-      10,
-      8
+      12,
+      13
     ],
     "background": "Folk Hero"
   },
@@ -24,16 +24,16 @@
     "invitation_reason": "Art destabilizes narrative\u2014and Vaultsy\u2019s black-market mystique undermines the aesthetics of consumer control.",
     "secret_or_twist": "Secretly a group? An AI? Next heist: Wikipedia.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Rogue",
     "ability_scores": [
-      15,
+      8,
       14,
-      13,
-      12,
       10,
+      16,
+      13,
       8
     ],
-    "background": "Folk Hero"
+    "background": "Criminal"
   },
   {
     "name": "Steph Efforts",
@@ -44,14 +44,14 @@
     "claimed": false,
     "class": "Fighter",
     "ability_scores": [
+      11,
       15,
-      14,
       13,
-      12,
-      10,
-      8
+      16,
+      16,
+      15
     ],
-    "background": "Folk Hero"
+    "background": "Guild Artisan"
   },
   {
     "name": "Camilla Bumblage",
@@ -60,16 +60,16 @@
     "invitation_reason": "Her vast audience is spellbound\u2014but she hasn\u2019t fully sold out yet.",
     "secret_or_twist": "Once hexed a sponsor live on air. Ratings never recovered.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Wizard",
     "ability_scores": [
+      11,
+      14,
+      15,
       15,
       14,
-      13,
-      12,
-      10,
-      8
+      11
     ],
-    "background": "Folk Hero"
+    "background": "Noble"
   },
   {
     "name": "Jordan Lumberpond",
@@ -78,16 +78,16 @@
     "invitation_reason": "Lyrics influence millions\u2014CC wants to license that influence.",
     "secret_or_twist": "Losing their voice\u2014literally and metaphorically.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Bard",
     "ability_scores": [
+      11,
       15,
       14,
       13,
-      12,
-      10,
-      8
+      13,
+      16
     ],
-    "background": "Folk Hero"
+    "background": "Entertainer"
   },
   {
     "name": "Winifred Goopington",
@@ -96,16 +96,16 @@
     "invitation_reason": "Already sells narratives\u2014CC wants to franchise her belief system.",
     "secret_or_twist": "Might have achieved enlightenment\u2026 but mostly placebo.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Monk",
     "ability_scores": [
-      15,
-      14,
+      9,
       13,
+      14,
       12,
-      10,
-      8
+      15,
+      13
     ],
-    "background": "Folk Hero"
+    "background": "Charlatan"
   },
   {
     "name": "Moose Griddles",
@@ -114,51 +114,51 @@
     "invitation_reason": "Represents rugged independence\u2014unbrandable?",
     "secret_or_twist": "Claims to have fought a Wi-Fi wendigo. CC believes him.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Ranger",
     "ability_scores": [
-      15,
-      14,
       13,
-      12,
-      10,
-      8
+      16,
+      15,
+      9,
+      15,
+      11
     ],
-    "background": "Folk Hero"
+    "background": "Hermit"
   },
   {
-    "name": "Ingrid Tienfj\u00f8rg",
+    "name": "Ingrid Tienfjorg",
     "archetype": "Global activist, Nobel laureate, enemy of corporate greenwashing",
     "public_role": "Founder of WorldHarmony, cross-planar social justice coalition.",
     "invitation_reason": "Her moral clarity could ruin or legitimize CC\u2019s plans.",
     "secret_or_twist": "Believes in redemption\u2026 even for CC.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Cleric",
     "ability_scores": [
-      15,
-      14,
-      13,
+      11,
       12,
-      10,
-      8
+      16,
+      14,
+      16,
+      15
     ],
-    "background": "Folk Hero"
+    "background": "Urchin"
   },
   {
-    "name": "Dr. Hargrave Quennington Beauregard IV",
+    "name": "Dr Hargrave Quennington Beauregard IV",
     "archetype": "Southern gentleman detective",
     "public_role": "Professor at Columbia, hosts 'Mystery, Mayhem & Mint Juleps' on PBS.",
     "invitation_reason": "Solved every major crime\u2014except CC\u2019s.",
     "secret_or_twist": "May have no magic at all\u2014just wit and charm.",
     "claimed": false,
-    "class": "Fighter",
+    "class": "Rogue",
     "ability_scores": [
-      15,
+      11,
+      16,
       14,
-      13,
-      12,
-      10,
-      8
+      16,
+      15,
+      12
     ],
-    "background": "Folk Hero"
+    "background": "Sage"
   }
 ]
