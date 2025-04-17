@@ -23,7 +23,7 @@
     "public_role": "Allegedly a myth, but viral videos are real. Latest stunt: vanishing the Statue of Liberty\u2019s torch.",
     "invitation_reason": "Art destabilizes narrative\u2014and Vaultsy\u2019s black-market mystique undermines the aesthetics of consumer control.",
     "secret_or_twist": "Secretly a group? An AI? Next heist: Wikipedia.",
-    "claimed": false,
+    "claimed": true,
     "class": "Rogue",
     "ability_scores": [
       8,
@@ -77,7 +77,7 @@
     "public_role": "Known for soulful ballads, protest anthems, silence during 2024 Brand Wars.",
     "invitation_reason": "Lyrics influence millions\u2014CC wants to license that influence.",
     "secret_or_twist": "Losing their voice\u2014literally and metaphorically.",
-    "claimed": false,
+    "claimed": true,
     "class": "Bard",
     "ability_scores": [
       11,
@@ -95,7 +95,7 @@
     "public_role": "Founder of Goop&Glow, selling enlightenment crystals to sentient probiotics.",
     "invitation_reason": "Already sells narratives\u2014CC wants to franchise her belief system.",
     "secret_or_twist": "Might have achieved enlightenment\u2026 but mostly placebo.",
-    "claimed": false,
+    "claimed": true,
     "class": "Monk",
     "ability_scores": [
       9,
@@ -131,7 +131,7 @@
     "public_role": "Founder of WorldHarmony, cross-planar social justice coalition.",
     "invitation_reason": "Her moral clarity could ruin or legitimize CC\u2019s plans.",
     "secret_or_twist": "Believes in redemption\u2026 even for CC.",
-    "claimed": false,
+    "claimed": true,
     "class": "Cleric",
     "ability_scores": [
       11,
@@ -149,7 +149,7 @@
     "public_role": "Professor at Columbia, hosts 'Mystery, Mayhem & Mint Juleps' on PBS.",
     "invitation_reason": "Solved every major crime\u2014except CC\u2019s.",
     "secret_or_twist": "May have no magic at all\u2014just wit and charm.",
-    "claimed": false,
+    "claimed": true,
     "class": "Rogue",
     "ability_scores": [
       11,

@@ -1,17 +1,177 @@
 {
-  "USLACKBOT": {
-    "creation_status": "awaiting_riddle_answer",
-    "creation_data": {},
+  "U08N3LJNMLL": {
+    "creation_status": "character_created",
+    "creation_data": {
+      "persona": {
+        "name": "Dr Hargrave Quennington Beauregard IV",
+        "archetype": "Southern gentleman detective",
+        "public_role": "Professor at Columbia, hosts 'Mystery, Mayhem & Mint Juleps' on PBS.",
+        "invitation_reason": "Solved every major crime\u2014except CC\u2019s.",
+        "secret_or_twist": "May have no magic at all\u2014just wit and charm.",
+        "claimed": true,
+        "class": "Rogue",
+        "ability_scores": [
+          11,
+          16,
+          14,
+          16,
+          15,
+          12
+        ],
+        "background": "Sage"
+      },
+      "class_key": "rogue",
+      "background": "Sage",
+      "species": "Human",
+      "ability_scores": {
+        "strength": 11,
+        "dexterity": 16,
+        "constitution": 14,
+        "intelligence": 16,
+        "wisdom": 15,
+        "charisma": 12
+      }
+    },
     "backstory_notes": ""
   },
-  "U08MEFQUD7X": {
-    "creation_status": "awaiting_riddle_answer",
-    "creation_data": {},
+  "U08N3LH5BCL": {
+    "creation_status": "character_created",
+    "creation_data": {
+      "persona": {
+        "name": "Jordan Lumberpond",
+        "archetype": "Indie folk icon turned Grammy-winning pop star",
+        "public_role": "Known for soulful ballads, protest anthems, silence during 2024 Brand Wars.",
+        "invitation_reason": "Lyrics influence millions\u2014CC wants to license that influence.",
+        "secret_or_twist": "Losing their voice\u2014literally and metaphorically.",
+        "claimed": true,
+        "class": "Bard",
+        "ability_scores": [
+          11,
+          15,
+          14,
+          13,
+          13,
+          16
+        ],
+        "background": "Entertainer"
+      },
+      "class_key": "fighter",
+      "background": null,
+      "species": null,
+      "ability_scores": {
+        "strength": 11,
+        "dexterity": 7,
+        "constitution": 13,
+        "intelligence": 17,
+        "wisdom": 13,
+        "charisma": 13
+      }
+    },
     "backstory_notes": ""
   },
-  "U08N3D85YSE": {
-    "creation_status": "awaiting_riddle_answer",
-    "creation_data": {},
+  "U08N3LJ5UVA": {
+    "creation_status": "character_created",
+    "creation_data": {
+      "persona": {
+        "name": "Ingrid Tienfjorg",
+        "archetype": "Global activist, Nobel laureate, enemy of corporate greenwashing",
+        "public_role": "Founder of WorldHarmony, cross-planar social justice coalition.",
+        "invitation_reason": "Her moral clarity could ruin or legitimize CC\u2019s plans.",
+        "secret_or_twist": "Believes in redemption\u2026 even for CC.",
+        "claimed": true,
+        "class": "Cleric",
+        "ability_scores": [
+          11,
+          12,
+          16,
+          14,
+          16,
+          15
+        ],
+        "background": "Urchin"
+      },
+      "class_key": "cleric",
+      "background": "Urchin",
+      "species": "Human",
+      "ability_scores": {
+        "strength": 11,
+        "dexterity": 12,
+        "constitution": 16,
+        "intelligence": 14,
+        "wisdom": 16,
+        "charisma": 15
+      }
+    },
+    "backstory_notes": ""
+  },
+  "U08N3LJAK0U": {
+    "creation_status": "character_created",
+    "creation_data": {
+      "persona": {
+        "name": "Vaultsy",
+        "archetype": "Infamous art thief / anonymous provocateur",
+        "public_role": "Allegedly a myth, but viral videos are real. Latest stunt: vanishing the Statue of Liberty\u2019s torch.",
+        "invitation_reason": "Art destabilizes narrative\u2014and Vaultsy\u2019s black-market mystique undermines the aesthetics of consumer control.",
+        "secret_or_twist": "Secretly a group? An AI? Next heist: Wikipedia.",
+        "claimed": true,
+        "class": "Rogue",
+        "ability_scores": [
+          8,
+          14,
+          10,
+          16,
+          13,
+          8
+        ],
+        "background": "Criminal"
+      },
+      "class_key": "rogue",
+      "background": "Criminal",
+      "species": "Human",
+      "ability_scores": {
+        "strength": 8,
+        "dexterity": 14,
+        "constitution": 10,
+        "intelligence": 16,
+        "wisdom": 13,
+        "charisma": 8
+      }
+    },
+    "backstory_notes": ""
+  },
+  "U08N91YNS20": {
+    "creation_status": "character_created",
+    "creation_data": {
+      "persona": {
+        "name": "Winifred Goopington",
+        "archetype": "Wellness mogul, spiritual grifter, mystic celeb",
+        "public_role": "Founder of Goop&Glow, selling enlightenment crystals to sentient probiotics.",
+        "invitation_reason": "Already sells narratives\u2014CC wants to franchise her belief system.",
+        "secret_or_twist": "Might have achieved enlightenment\u2026 but mostly placebo.",
+        "claimed": true,
+        "class": "Monk",
+        "ability_scores": [
+          9,
+          13,
+          14,
+          12,
+          15,
+          13
+        ],
+        "background": "Charlatan"
+      },
+      "class_key": "monk",
+      "background": "Charlatan",
+      "species": "Human",
+      "ability_scores": {
+        "strength": 9,
+        "dexterity": 13,
+        "constitution": 14,
+        "intelligence": 12,
+        "wisdom": 15,
+        "charisma": 13
+      }
+    },
     "backstory_notes": ""
   }
 }

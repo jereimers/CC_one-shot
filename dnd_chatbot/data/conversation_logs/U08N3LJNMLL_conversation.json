@@ -1,0 +1,372 @@
+[
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744598574.524339",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "New Assistant Thread",
+        "subtype": "assistant_app_thread",
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744598592.688639",
+        "edited": {
+            "user": "U08MKD37A20",
+            "ts": "1744598736.000000"
+        },
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744598592.688639",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1744598990.018839",
+        "reply_users": [
+            "U08N3LJNMLL",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New Assistant Thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "assistant_app_thread": {
+            "title": "What character am I?",
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "d2L",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "What character am I?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "artifacts": [],
+            "context": {}
+        }
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1744598735.992789",
+        "client_msg_id": "2ABBC075-FE09-4368-A27A-7B078DBF19B6",
+        "text": "What character am I?",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744598592.688639",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GExRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What character am I?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744598738.143269",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Welcome to the PATH Variable. Please select one of the following personas by typing its name:\n• Wayne Barack Jansen – Celebrity brawler-turned-politician\n• Vaultsy – Infamous art thief / anonymous provocateur\n• Steph Efforts – Reclusive tech innovator\n• Camilla Bumblage – Celebrity magic professor, influencer enchantment master\n• Jordan Lumberpond – Indie folk icon turned Grammy-winning pop star\n• Winifred Goopington – Wellness mogul, spiritual grifter, mystic celeb\n• Moose Griddles – Survivalist YouTuber, cryptid hunter\n• Ingrid Tienfjorg – Global activist, Nobel laureate, enemy of corporate greenwashing\n• Dr Hargrave Quennington Beauregard IV – Southern gentleman detective\n",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744598592.688639",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pR390",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the PATH Variable. Please select one of the following personas by typing its name:\n• Wayne Barack Jansen – Celebrity brawler-turned-politician\n• Vaultsy – Infamous art thief / anonymous provocateur\n• Steph Efforts – Reclusive tech innovator\n• Camilla Bumblage – Celebrity magic professor, influencer enchantment master\n• Jordan Lumberpond – Indie folk icon turned Grammy-winning pop star\n• Winifred Goopington – Wellness mogul, spiritual grifter, mystic celeb\n• Moose Griddles – Survivalist YouTuber, cryptid hunter\n• Ingrid Tienfjorg – Global activist, Nobel laureate, enemy of corporate greenwashing\n• Dr Hargrave Quennington Beauregard IV – Southern gentleman detective"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1744598777.223489",
+        "client_msg_id": "B8C5B80B-AAD2-48B1-8F61-A7D893A9C64F",
+        "text": "Dr Hargrove Quennington Beauregard IV",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744598592.688639",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PrhQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dr Hargrove Quennington Beauregard IV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744598788.249249",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the illustrious Dr. Hargrave Quennington Beauregard IV. A name that echoes with the charm of the antebellum south and the mystique of a gentleman sleuth. Wise choice, indeed. The good doctor has a penchant for solving the unsolvable, much like a certain detective from Baker Street, but with a more refined palate for mint juleps.\n\nAllow me a moment to retrieve the esteemed Professor's dossier from the depths of the arcane archives. You shall soon receive the PDF containing all pertinent details of your chosen persona.\n\nOnce the document is in your hands, your character will stand ready at level 1. From there, the journey to level 10 is yours to navigate—a tale of intrigue, deduction, and perhaps a touch of scandal, if I may be so bold. Should you wish to discuss the finer points of the Professor's motivations, personality, or clandestine secrets, I remain at your service.\n\nThe game is afoot!",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744598592.688639",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the illustrious Dr. Hargrave Quennington Beauregard IV. A name that echoes with the charm of the antebellum south and the mystique of a gentleman sleuth. Wise choice, indeed. The good doctor has a penchant for solving the unsolvable, much like a certain detective from Baker Street, but with a more refined palate for mint juleps.\n\nAllow me a moment to retrieve the esteemed Professor's dossier from the depths of the arcane archives. You shall soon receive the PDF containing all pertinent details of your chosen persona.\n\nOnce the document is in your hands, your character will stand ready at level 1. From there, the journey to level 10 is yours to navigate—a tale of intrigue, deduction, and perhaps a touch of scandal, if I may be so bold. Should you wish to discuss the finer points of the Professor's motivations, personality, or clandestine secrets, I remain at your service.\n\nThe game is afoot!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1744598990.018839",
+        "client_msg_id": "E06EC5FE-F712-4583-900C-5D5228E0C16E",
+        "text": "Who is Dr Hargrave Quennington Beauregard IV",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744598592.688639",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s+xyP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dr Hargrave Quennington Beauregard IV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Excellent choice: Dr Hargrave Quennington Beauregard IV – Southern gentleman detective.\n\nYour Level 1 character sheet is attached, based on the chosen persona. Now, tell me about their origins, motivations, flaws... their story.",
+        "files": [
+            {
+                "id": "F08MKSDU5PZ",
+                "created": 1744598992,
+                "timestamp": 1744598992,
+                "name": "DrHargraveQuenningtonBeauregardIV.pdf",
+                "title": "Dr Hargrave Quennington Beauregard IV - Level 1 Sheet",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": false,
+                "size": 2249072,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T08MEFQUAG5-F08MKSDU5PZ/drhargravequenningtonbeauregardiv.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08MKSDU5PZ/download/drhargravequenningtonbeauregardiv.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08MKSDU5PZ-5ab7043875/drhargravequenningtonbeauregardiv_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08MKSDU5PZ/drhargravequenningtonbeauregardiv.pdf",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08MKSDU5PZ-156a6b314d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent choice: Dr Hargrave Quennington Beauregard IV – Southern gentleman detective.\n\nYour Level 1 character sheet is attached, based on the chosen persona. Now, tell me about their origins, motivations, flaws... their story."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744598994.475499",
+        "bot_id": "B08MKD31DFE"
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744827085.954019",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\"",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ZUj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

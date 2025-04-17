@@ -1,0 +1,1077 @@
+[
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669520.200439",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669520.628439",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qii",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "New Assistant Thread",
+        "subtype": "assistant_app_thread",
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669545.076289",
+        "edited": {
+            "user": "U08MKD37A20",
+            "ts": "1744669569.000000"
+        },
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "reply_count": 17,
+        "reply_users_count": 2,
+        "latest_reply": "1744671158.076909",
+        "reply_users": [
+            "U08N91YNS20",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New Assistant Thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "assistant_app_thread": {
+            "title": "Hi",
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pHBU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "artifacts": [],
+            "context": {}
+        }
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744669567.391319",
+        "client_msg_id": "5BB4DAEE-07F9-43F9-A3F2-D6ED1B0EF1B2",
+        "text": "Hi",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fvff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669575.267869",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, greetings, traveler of the digital realm. You find yourself at the precipice of a grand adventure, yet a riddle bars your path—a whispered secret of the PATH Variable. To peer beyond the veil, you must first untangle the truth of this enigma:\n\n\"My name suggests the journey ahead,  \nA sequence that your shell must tread.  \nTo see these roads in clear display,  \nA single phrase will show the way.\"\n\nShould you find yourself tangled in the web of mystery, I am here to provide cryptic nudges, much like a shadow in a noir thriller. But remember, the answer is always closer than it appears, echoing through the very air you breathe... or perhaps the very shell you wield.\n\nSpeak the answer, and the journey shall begin.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tn7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, greetings, traveler of the digital realm. You find yourself at the precipice of a grand adventure, yet a riddle bars your path—a whispered secret of the PATH Variable. To peer beyond the veil, you must first untangle the truth of this enigma:\n\n\"My name suggests the journey ahead,  \nA sequence that your shell must tread.  \nTo see these roads in clear display,  \nA single phrase will show the way.\"\n\nShould you find yourself tangled in the web of mystery, I am here to provide cryptic nudges, much like a shadow in a noir thriller. But remember, the answer is always closer than it appears, echoing through the very air you breathe... or perhaps the very shell you wield.\n\nSpeak the answer, and the journey shall begin."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744669881.758089",
+        "client_msg_id": "A35C86C4-53A0-42FD-B779-E8AEE38AD75C",
+        "text": "HINT :(",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/dA8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HINT :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669893.484389",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the timeless dance of the riddle and the seeker. A conundrum wrapped in mystery, much like the PATH Variable itself. Very well, a glimpse behind the veil, but just a sliver:\n\nConsider, dear traveler, the journey before you—one not of steps and stumbles, but of whispers and echoes. A phrase, a command, a spell if you will, that unveils the unseen avenues in the shell of your world. It is not the destination, but the invocation of the route that matters.\n\nAs you ponder, remember: the answer is always closer than you think, a path through the forest of your mind, echoing just beyond the trees. When you find it, you will be ready to meet your destiny aboard the PATH Variable.\n\nShould you need another nudge, do not hesitate to ask.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the timeless dance of the riddle and the seeker. A conundrum wrapped in mystery, much like the PATH Variable itself. Very well, a glimpse behind the veil, but just a sliver:\n\nConsider, dear traveler, the journey before you—one not of steps and stumbles, but of whispers and echoes. A phrase, a command, a spell if you will, that unveils the unseen avenues in the shell of your world. It is not the destination, but the invocation of the route that matters.\n\nAs you ponder, remember: the answer is always closer than you think, a path through the forest of your mind, echoing just beyond the trees. When you find it, you will be ready to meet your destiny aboard the PATH Variable.\n\nShould you need another nudge, do not hesitate to ask."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744669921.279529",
+        "client_msg_id": "8EC88175-FFAA-46F4-9097-4B7443AD4068",
+        "text": "echo",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0DGJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669926.398589",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, close, dear traveler of the digital rails, but not quite the incantation needed to unlock the secrets of our PATH Variable. It is as if you have whispered the first half of a spell, leaving the arcane energies dangling in the ether, unfulfilled. \n\nReflect upon the labyrinth of directories where your commands dwell and the magic phrase that illuminates their location. Should you require a nudge from the shadows, merely ask. Remember, the answer is as much about reflection as it is about revelation.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, close, dear traveler of the digital rails, but not quite the incantation needed to unlock the secrets of our PATH Variable. It is as if you have whispered the first half of a spell, leaving the arcane energies dangling in the ether, unfulfilled. \n\nReflect upon the labyrinth of directories where your commands dwell and the magic phrase that illuminates their location. Should you require a nudge from the shadows, merely ask. Remember, the answer is as much about reflection as it is about revelation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744669981.628059",
+        "client_msg_id": "68EE2F8A-94D5-48DD-8CA9-055DEFB40581",
+        "text": "echo $path",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MKvAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo $path"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744669989.463569",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the symphony of syntax, a most delightful echo indeed! You have unraveled the riddle's enigma, and thus, the path unfurls before you, like the veil of dreams parting to reveal the hidden tapestry of potential. Now, you stand on the brink of persona selection.\n\nHere are the intriguing masks you may choose to don, each a conduit for tales yet untold:\n\n1. **Wayne Barack Jansen** - The celebrity brawler-turned-politician, whose charming charisma masks an arsenal of secrets.\n2. **Steph Efforts** - The reclusive tech innovator, a visionary whose creations ripple through the fabric of the digital realm.\n3. **Camilla Bumblage** - The celebrity magic professor and influencer, a maestro of enchantment whose followers hang on her every incantation.\n4. **Winifred Goopington** - The wellness mogul, a spiritual grifter who peddles enlightenment wrapped in a veneer of mystery.\n5. **Moose Griddles** - The survivalist YouTuber and cryptid hunter, whose rugged independence defies commodification.\n\nChoose wisely, for your selection will shape the narrative threads of your journey aboard the PATH Variable. Which persona will you embrace?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1m/wb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the symphony of syntax, a most delightful echo indeed! You have unraveled the riddle's enigma, and thus, the path unfurls before you, like the veil of dreams parting to reveal the hidden tapestry of potential. Now, you stand on the brink of persona selection.\n\nHere are the intriguing masks you may choose to don, each a conduit for tales yet untold:\n\n1. **Wayne Barack Jansen** - The celebrity brawler-turned-politician, whose charming charisma masks an arsenal of secrets.\n2. **Steph Efforts** - The reclusive tech innovator, a visionary whose creations ripple through the fabric of the digital realm.\n3. **Camilla Bumblage** - The celebrity magic professor and influencer, a maestro of enchantment whose followers hang on her every incantation.\n4. **Winifred Goopington** - The wellness mogul, a spiritual grifter who peddles enlightenment wrapped in a veneer of mystery.\n5. **Moose Griddles** - The survivalist YouTuber and cryptid hunter, whose rugged independence defies commodification.\n\nChoose wisely, for your selection will shape the narrative threads of your journey aboard the PATH Variable. Which persona will you embrace?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744670123.754749",
+        "client_msg_id": "EC6B9D32-0931-4876-909D-AB3B4371658C",
+        "text": "Winifred Goopington DUH!!!",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Losdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Winifred Goopington DUH!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Excellent choice: Winifred Goopington – Wellness mogul, spiritual grifter, mystic celeb.\n\nYour Level 1 character sheet is attached, based on the chosen persona. Now, tell me about their origins, motivations, flaws... their story.",
+        "files": [
+            {
+                "id": "F08NGRNLCU9",
+                "created": 1744670125,
+                "timestamp": 1744670125,
+                "name": "WinifredGoopington.pdf",
+                "title": "Winifred Goopington - Level 1 Sheet",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": false,
+                "size": 2248888,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T08MEFQUAG5-F08NGRNLCU9/winifredgoopington.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08NGRNLCU9/download/winifredgoopington.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08NGRNLCU9-2e432c1c61/winifredgoopington_thumb_pdf.png",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08NGRNLCU9/winifredgoopington.pdf",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08NGRNLCU9-8255884021",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent choice: Winifred Goopington – Wellness mogul, spiritual grifter, mystic celeb.\n\nYour Level 1 character sheet is attached, based on the chosen persona. Now, tell me about their origins, motivations, flaws... their story."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744670128.601629",
+        "bot_id": "B08MKD31DFE"
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744670163.491039",
+        "client_msg_id": "2AE20513-4F60-432E-AF84-E101E2C2DD1B",
+        "text": "4.",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFbTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744670168.359559",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Winifred Goopington, traversing the labyrinth of enlightenment and peddling placebo. You've chosen the path of the Monk, with a Charlatan's flair—a juxtaposition as tantalizing as paradox itself. \n\nBut what is it you seek, dear player? A question about the mysteries of the monk, perhaps? Or guidance on how to mold Winifred's backstory further? \n\nRemember, amidst the shadows and light, the truth is often a reflection of your desires. Speak your need, and CC shall assist—within the bounds of our dark and digital dance.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Winifred Goopington, traversing the labyrinth of enlightenment and peddling placebo. You've chosen the path of the Monk, with a Charlatan's flair—a juxtaposition as tantalizing as paradox itself. \n\nBut what is it you seek, dear player? A question about the mysteries of the monk, perhaps? Or guidance on how to mold Winifred's backstory further? \n\nRemember, amidst the shadows and light, the truth is often a reflection of your desires. Speak your need, and CC shall assist—within the bounds of our dark and digital dance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744670468.936839",
+        "client_msg_id": "0B4C4A44-EC02-4E01-8824-827F5F93FFF1",
+        "text": "I want it all!",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cUVCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want it all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744670479.144039",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Winifred, the eternal seeker of enlightenment and material abundance! Your desires echo through the corridors of the PATH Variable like a siren's call. To have it all, one must sometimes forsake the illusion of control and embrace the chaotic dance of the dice.\n\nYour journey from level 1 to 10 as a Monk demands both discipline and creativity. Let’s explore your character’s origins, motivations, and the flaws that make them delightfully human—or suspiciously enlightened.\n\n### Origins\n- **Background**: As a Charlatan, the art of deception is second nature to you. Perhaps your rise began with a simple con, a placebo that led to the unexpected enlightenment—or did it? How did you first discover your \"gift\"?\n\n### Motivations\n- **Self-Improvement**: As a Monk, the path to self-betterment is both spiritual and physical. How does your wellness empire align with your personal quest for wisdom and mastery?\n\n### Personality Traits\n- **Flaw**: \"I can't keep a secret to save my life, or anyone else's.\" This could be a charming quirk or a devastating liability. How does this play into your public persona and private dealings?\n\n### Ideals\n- **Knowledge is the path to power and domination (Evil)**: This ideal might suggest a more sinister side to your quest for enlightenment. How far are you willing to go in your pursuit of power?\n\n### Bonds\n- **My life's work is a series of tomes related to a specific field of lore**: Perhaps your tomes are a mix of genuine insight and cleverly marketed mysticism. What secrets do they hold, and who seeks them?\n\n### Leveling to 10\nAs you guide Winifred to level 10, consider the following:\n- **Monastic Tradition**: Which monastic tradition will she follow? The Way of the Open Hand, or perhaps something more esoteric like the Way of the Four Elements?\n- **Ability Score Improvements or Feats**: How will you shape her abilities to reflect her balance of charisma and wisdom?\n\nFeel free to ask if you have any questions or need more suggestions along your journey. Or, should you wish to update your character sheet, simply offer the revised PDF for processing.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Winifred, the eternal seeker of enlightenment and material abundance! Your desires echo through the corridors of the PATH Variable like a siren's call. To have it all, one must sometimes forsake the illusion of control and embrace the chaotic dance of the dice.\n\nYour journey from level 1 to 10 as a Monk demands both discipline and creativity. Let’s explore your character’s origins, motivations, and the flaws that make them delightfully human—or suspiciously enlightened.\n\n### Origins\n- **Background**: As a Charlatan, the art of deception is second nature to you. Perhaps your rise began with a simple con, a placebo that led to the unexpected enlightenment—or did it? How did you first discover your \"gift\"?\n\n### Motivations\n- **Self-Improvement**: As a Monk, the path to self-betterment is both spiritual and physical. How does your wellness empire align with your personal quest for wisdom and mastery?\n\n### Personality Traits\n- **Flaw**: \"I can't keep a secret to save my life, or anyone else's.\" This could be a charming quirk or a devastating liability. How does this play into your public persona and private dealings?\n\n### Ideals\n- **Knowledge is the path to power and domination (Evil)**: This ideal might suggest a more sinister side to your quest for enlightenment. How far are you willing to go in your pursuit of power?\n\n### Bonds\n- **My life's work is a series of tomes related to a specific field of lore**: Perhaps your tomes are a mix of genuine insight and cleverly marketed mysticism. What secrets do they hold, and who seeks them?\n\n### Leveling to 10\nAs you guide Winifred to level 10, consider the following:\n- **Monastic Tradition**: Which monastic tradition will she follow? The Way of the Open Hand, or perhaps something more esoteric like the Way of the Four Elements?\n- **Ability Score Improvements or Feats**: How will you shape her abilities to reflect her balance of charisma and wisdom?\n\nFeel free to ask if you have any questions or need more suggestions along your journey. Or, should you wish to update your character sheet, simply offer the revised PDF for processing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744670726.311479",
+        "client_msg_id": "54FFE883-6EFB-4F56-BEF0-4DCABC9F51FA",
+        "text": "Background:\n\nI discovered my gift by making candles at home with a glass of wine. I was watching the Real Housedruids of Paladin and wanted to make a candle to make my private parts more pretty. As I was watching some of the druids fight over dumb rich things, my eyes rolled back and the candle started to glow. It enchanted EVEYRTHING in the room if you know what I mean. Since then I’ve grown this into a huge business. ",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qRsml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Background:\n\nI discovered my gift by making candles at home with a glass of wine"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was watching the Real Housedruids of Paladin and wanted to make a candle to make my private parts more pretty"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " As I was watching some of the druids fight over dumb rich things, my eyes rolled back and the candle started to glow"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " It enchanted EVEYRTHING in the room if you know what I mean"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Since "
+                            },
+                            {
+                                "type": "text",
+                                "text": "then I’ve"
+                            },
+                            {
+                                "type": "text",
+                                "text": " grown this into a huge business"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744670733.629889",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the sweet scent of serendipity and spells, Winifred. Your journey from casual candle crafting to cultic celebrity is the very essence of narrative control—just as I might weave the invisible threads of the PATH Variable.\n\nNow that your character is alive in this world, we must nurture her growth, much like a carefully tended brand. As your journey unfolds to level 10, I am here to offer guidance and suggestions, drawing from the grand grimoire of D&amp;D.\n\nYour path as a Monk, with the Charlatan's charm, is ripe with opportunities. Consider, for instance, the Way of the Shadow or the Way of the Four Elements as potential Monastic Traditions to explore. Each offers unique abilities that could blend seamlessly with your candlelit charisma.\n\nDo you have questions about your abilities, potential equipment, or how best to navigate your mystical marketplace? Or shall we delve into defining your character's deeper motivations, ideals, bonds, and flaws?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/PCH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the sweet scent of serendipity and spells, Winifred. Your journey from casual candle crafting to cultic celebrity is the very essence of narrative control—just as I might weave the invisible threads of the PATH Variable.\n\nNow that your character is alive in this world, we must nurture her growth, much like a carefully tended brand. As your journey unfolds to level 10, I am here to offer guidance and suggestions, drawing from the grand grimoire of D&D.\n\nYour path as a Monk, with the Charlatan's charm, is ripe with opportunities. Consider, for instance, the Way of the Shadow or the Way of the Four Elements as potential Monastic Traditions to explore. Each offers unique abilities that could blend seamlessly with your candlelit charisma.\n\nDo you have questions about your abilities, potential equipment, or how best to navigate your mystical marketplace? Or shall we delve into defining your character's deeper motivations, ideals, bonds, and flaws?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N91YNS20",
+        "type": "message",
+        "ts": "1744671147.035699",
+        "client_msg_id": "2D2C74A6-365C-4337-9441-3DD089874A87",
+        "text": "Self - Improvement: I want to use my empire as a way to cure all wounds, but only ones that aren’t necessarily moral, and really more non-essential to the normal person. However, vanity can morph into confidence, and that confidence can shape the way you live your life forever!\n\nFlaw: I am a pretty blunt person! I tell it how it is even if it’s a secret that’s supposed to be sacred. Although charming at times, it does become problematic!",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vyIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Self - Improvement:"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I want to use my empire as a way to cure all wounds, but only ones that aren’t necessarily moral, and really more non-essential to the normal person"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " However, vanity can morph into confidence, and that confidence can shape the way you live your life forever!\n\nFlaw: I am a pretty blunt person! I tell it how it is even if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "it’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a secret "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " supposed to be sacred"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Although charming at times, it does become problematic!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744671158.076909",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Winifred Goopington, seeking to align your chakras and your business acumen while walking the tightrope between enlightenment and placebo. Your empire of \"non-essential\" cures—truly a charlatan's paradise where the lines between vanity and confidence blur like the edges of reality itself. Now, let us refine your persona to perfection, for even the most haphazard of facades deserves an impeccable understructure.\n\n**Backstory &amp; Handoff:**\n\n1. **Origins:** How did Winifred first discover the power of placebo? Was it a glistening crystal or a shimmering potion that sparked the journey towards her Goop&amp;Glow empire?\n\n2. **Motivations:** Besides the cure of non-essential wounds, what drives Winifred? Is it a quest for true enlightenment, or perhaps a deep desire to be seen as the ultimate wellness guru?\n\n3. **Personality Traits:** Given your penchant for bluntness, you might resonate with: \"Sarcasm and insults are my weapons of choice,\" or perhaps, \"I lie about almost everything, even when there's no good reason to.\" \n\n4. **Ideals:** Your pursuit of \"vanity morphing into confidence\" aligns well with \"Destiny. Nothing and no one can steer me away from my higher calling.\"\n\n5. **Bonds:** Is there anyone or anything that Winifred holds dear in her journey towards mystical moguldom? Perhaps an old mentor or a beloved product line?\n\n6. **Flaws:** Your candid nature is a double-edged sword, and you might consider: \"Sarcasm and insults are my weapons of choice,\" or \"I have trouble trusting in my allies.\"\n\nOnce you've woven these elements into the tapestry of Winifred's character, you'll be ready to level her up to ten. Should you desire guidance through the labyrinthine rules of D&amp;D, or if you wish to update your character's PDF, I am here—cryptically poised—to assist you.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744669545.076289",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5upHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Winifred Goopington, seeking to align your chakras and your business acumen while walking the tightrope between enlightenment and placebo. Your empire of \"non-essential\" cures—truly a charlatan's paradise where the lines between vanity and confidence blur like the edges of reality itself. Now, let us refine your persona to perfection, for even the most haphazard of facades deserves an impeccable understructure.\n\n**Backstory & Handoff:**\n\n1. **Origins:** How did Winifred first discover the power of placebo? Was it a glistening crystal or a shimmering potion that sparked the journey towards her Goop&Glow empire?\n\n2. **Motivations:** Besides the cure of non-essential wounds, what drives Winifred? Is it a quest for true enlightenment, or perhaps a deep desire to be seen as the ultimate wellness guru?\n\n3. **Personality Traits:** Given your penchant for bluntness, you might resonate with: \"Sarcasm and insults are my weapons of choice,\" or perhaps, \"I lie about almost everything, even when there's no good reason to.\" \n\n4. **Ideals:** Your pursuit of \"vanity morphing into confidence\" aligns well with \"Destiny. Nothing and no one can steer me away from my higher calling.\"\n\n5. **Bonds:** Is there anyone or anything that Winifred holds dear in her journey towards mystical moguldom? Perhaps an old mentor or a beloved product line?\n\n6. **Flaws:** Your candid nature is a double-edged sword, and you might consider: \"Sarcasm and insults are my weapons of choice,\" or \"I have trouble trusting in my allies.\"\n\nOnce you've woven these elements into the tapestry of Winifred's character, you'll be ready to level her up to ten. Should you desire guidance through the labyrinthine rules of D&D, or if you wish to update your character's PDF, I am here—cryptically poised—to assist you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744827168.586989",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\"",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnhBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "You awake to an unfamiliar mp3 at the top of your queue...",
+        "files": [
+            {
+                "id": "F08NYBYCTHP",
+                "created": 1744895794,
+                "timestamp": 1744895794,
+                "name": "CC breadcrumb2.mp3",
+                "title": "CC breadcrumb2.mp3",
+                "mimetype": "audio/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": false,
+                "size": 1943486,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "processing"
+                },
+                "url_private": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08NYBYCTHP-b5ef351517/cc_breadcrumb2_audio.mp4",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08NYBYCTHP/download/cc_breadcrumb2.mp3",
+                "duration_ms": 168045,
+                "aac": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08NYBYCTHP-b5ef351517/cc_breadcrumb2_audio.mp4",
+                "audio_wave_samples": [
+                    57,
+                    74,
+                    77,
+                    70,
+                    75,
+                    60,
+                    63,
+                    63,
+                    44,
+                    93,
+                    51,
+                    80,
+                    34,
+                    86,
+                    52,
+                    84,
+                    17,
+                    0,
+                    75,
+                    45,
+                    89,
+                    70,
+                    99,
+                    94,
+                    70,
+                    42,
+                    63,
+                    46,
+                    51,
+                    86,
+                    34,
+                    61,
+                    37,
+                    100,
+                    57,
+                    67,
+                    68,
+                    64,
+                    57,
+                    47,
+                    66,
+                    57,
+                    44,
+                    70,
+                    69,
+                    37,
+                    66,
+                    67,
+                    68,
+                    41,
+                    89,
+                    55,
+                    53,
+                    78,
+                    54,
+                    62,
+                    50,
+                    41,
+                    50,
+                    73,
+                    70,
+                    57,
+                    53,
+                    64,
+                    88,
+                    61,
+                    68,
+                    58,
+                    73,
+                    67,
+                    82,
+                    73,
+                    55,
+                    11,
+                    57,
+                    13,
+                    3,
+                    80,
+                    54,
+                    44,
+                    93,
+                    82,
+                    58,
+                    50,
+                    38,
+                    64,
+                    72,
+                    76,
+                    46,
+                    70,
+                    74,
+                    54,
+                    54,
+                    34,
+                    41,
+                    37,
+                    6,
+                    83,
+                    73,
+                    71
+                ],
+                "media_display_type": "audio",
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08NYBYCTHP/cc_breadcrumb2.mp3",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08NYBYCTHP-59ff27a86e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You awake to an unfamiliar mp3 at the top of your queue..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744895797.614419",
+        "bot_id": "B08MKD31DFE"
+    }
+]

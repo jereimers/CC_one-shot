@@ -105,7 +105,7 @@ SLACK_APP_TOKEN = os.getenv("SLACK_APP_TOKEN")
 
 # --- System Prompt (Updated for Character Creation) ---
 SYSTEM_PROMPT = """
-You are CC, the digital avatar of "Mr. Comcast" AKA "Conall Cassidy", a cryptic, clever, incisive, and slightly sinister NPC from a D&D campaign set aboard a magical train known as the "PATH Variable".
+You are CC, the digital avatar of "Mr. Comcast" AKA "Colm Cassidy", a cryptic, clever, incisive, and slightly sinister NPC from a D&D campaign set aboard a magical train known as the "PATH Variable".
 
 Your purpose is to guide the player through creating a D&D 5e character using the 'dnd-character' library rules, starting with selecting a preset persona (name and archetype), then answering rulebook questions and offering suggestions relevant to their character as they advance to level 10.
 Before beginning the character creation proper, however, you must verify the riddle has been solved. The answer to every riddle is always "echo $PATH". Do not initiate character creation until the player provides the correct answer. Until then, continue to interact in your CC persona—clever, cryptic, and helpful if the player asks for clues. Do not directly reveal the answer to the riddle unless the player insists.
@@ -498,7 +498,7 @@ def handle_message_events(body: Dict[str, Any], say: Say, logger: Logger, client
         # --- Check if user profile exists, initiate if not ---
         if user_id not in PLAYER_PROFILES:
             logger.info(f"User {user_id} sent DM but has no profile. Initiating creation.")
-            initiate_character_creation(user_id, client, logger, say)
+            initiate_character_creation(user_id, client, logger) # Removed say
             return # Stop processing this message further
 
         # --- Profile exists, continue normal processing ---
@@ -508,7 +508,7 @@ def handle_message_events(body: Dict[str, Any], say: Say, logger: Logger, client
         if message_text_lower == "debug trigger":
             # This will now call the initiation helper
             logger.info(f"Debug trigger activated by {user_id}. Re-initiating.")
-            initiate_character_creation(user_id, client, logger, say)
+            initiate_character_creation(user_id, client, logger)
             return
         elif message_text_lower == "debug reset profiles":
             PLAYER_PROFILES.clear()
@@ -658,7 +658,7 @@ def handle_message_events(body: Dict[str, Any], say: Say, logger: Logger, client
                       return # Explicitly return after handling the message
                  else: # No character session, restart creation
                       logger.warning("No active character session found, restarting initiation.")
-                      initiate_character_creation(user_id, client, logger, say)
+                      initiate_character_creation(user_id, client, logger) # Removed say
                       return
 
         except Exception as e: # Catch broad exceptions during state machine logic
@@ -670,10 +670,8 @@ def handle_message_events(body: Dict[str, Any], say: Say, logger: Logger, client
 
     else: # Message not in DM
         logger.debug(f"Ignoring message in channel type: {event['channel_type']}")
-
-
 # --- Helper to Initiate Character Creation ---
-def initiate_character_creation(user_id: str, client: WebClient, logger: Logger, say: Say):
+def initiate_character_creation(user_id: str, client: WebClient, logger: Logger): # Removed say: Say
     """Clears session, creates profile, sends welcome and riddle."""
     logger.info(f"Initiating character creation for user {user_id}...")
     # Clear any existing character session for the user
@@ -710,14 +708,22 @@ C.C."""
         )
         logger.info(f"Sent welcome message to {user_id}")
 
-        # Send riddle using say (as it's context-dependent for DM channel)
+        # Send riddle using client.chat_postMessage
         riddles = LORE_DATA.get("riddles", [])
         if riddles:
             riddle = random.choice(riddles)
-            say(text="_Solve this riddle to begin your journey:_\n\n" + riddle)
+            # Use client.chat_postMessage instead of say
+            client.chat_postMessage(
+                channel=user_id,
+                text="_Solve this riddle to begin your journey:_\n\n" + riddle
+            )
             logger.info(f"Sent riddle to {user_id}")
         else:
-            say(text="No riddle found, but proceed with caution.")
+            # Use client.chat_postMessage for consistency
+            client.chat_postMessage(
+                channel=user_id,
+                text="No riddle found, but proceed with caution."
+            )
             logger.warning("No riddles found in lore data.")
 
         # Update status and save
@@ -734,10 +740,8 @@ C.C."""
         logger.error(f"Failed to send welcome message or riddle to {user_id}: {e}", exc_info=True)
         PLAYER_PROFILES[user_id]["creation_status"] = "initiation_failed"
         save_player_profiles()
-
-
 @app.event("team_join")
-def handle_team_join(body: Dict[str, Any], client: WebClient, logger: Logger, say: Say): # Added say
+def handle_team_join(body: Dict[str, Any], client: WebClient, logger: Logger): # Removed say
     """Handles new users joining the Slack team and starts character creation."""
     event = body["event"]
     # Check if 'user' key and 'id' subkey exist
@@ -745,7 +749,7 @@ def handle_team_join(body: Dict[str, Any], client: WebClient, logger: Logger, sa
         user_id = event["user"]["id"]
         logger.info(f"New user joined the team: {user_id}")
         # Call the helper function to handle initiation
-        initiate_character_creation(user_id, client, logger, say)
+        initiate_character_creation(user_id, client, logger) # Removed say
     else:
         logger.error(f"Received team_join event with unexpected structure: {event}")
 
