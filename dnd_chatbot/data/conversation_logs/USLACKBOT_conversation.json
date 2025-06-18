@@ -1,0 +1,872 @@
+[
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569122.338669",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569122.745759",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omLq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569784.592499",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569784.973159",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571343.254809",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571343.640199",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S/Ws=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573356.646609",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOGqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573357.023219",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573950.626019",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573951.009479",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574153.479259",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+kJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574153.863409",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzwAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574891.360189",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qzwu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574891.752169",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=Sr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744576768.883499",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rGT/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744576769.267499",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Cncd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744597814.416949",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5K+BP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744597814.805619",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "piao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744921924.967299",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744921925.364979",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dqYh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMy name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+Round,Primary Skills,Reward,Risk of Failure
+1,"Insight, Deception, Sleight of Hand",Gain 1 Chip on success,None
+2,"Deception, Insight, Performance, Sleight of Hand",1 Chip + reveal an NPC clue,Lose 1 Chip
+3,"Insight, Intimidation, Sleight of Hand, Persuasion",Win prize, fail triggers surveillance

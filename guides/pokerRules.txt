@@ -1,0 +1,4 @@
+Poker rules:
+3 rounds.
+Each round, you may READ an opponent (insight), BLUFF (deception/performance), and/or CHEAT (sleight of hand).
+The DC will get harder with each round.

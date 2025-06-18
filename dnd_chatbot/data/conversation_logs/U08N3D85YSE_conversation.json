@@ -1,0 +1,2274 @@
+[
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569123.142379",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569123.519339",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1744569691.672959",
+        "reply_users": [
+            "U08N3D85YSE",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iW4bH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569191.256839",
+        "client_msg_id": "02480ce5-0cf3-428c-a182-f00427cfcb73",
+        "text": "pwd",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13zUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pwd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569198.367899",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, a curious choice of command, dear player! But alas, while \"pwd\" may reveal your current directory in the labyrinthine depths of your file system, it does not unlock the secret passage here. Perhaps a more echoing approach is needed, a line that reverberates with the PATH you seek. \n\nIf you desire a clue, do ask, and I'll guide you like the Cheshire Cat through this digital wonderland.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, a curious choice of command, dear player! But alas, while \"pwd\" may reveal your current directory in the labyrinthine depths of your file system, it does not unlock the secret passage here. Perhaps a more echoing approach is needed, a line that reverberates with the PATH you seek. \n\nIf you desire a clue, do ask, and I'll guide you like the Cheshire Cat through this digital wonderland."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569212.145139",
+        "client_msg_id": "b079cf24-96fd-4021-ac92-5c1ea8a1ee0d",
+        "text": "give me a clue",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6r3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "give me a clue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569218.421619",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, a seeker of clues, are we? Very well, let me weave you a tapestry of hints. \n\nImagine, if you will, a path. Not just any path, but a serpentine trail of breadcrumbs your digital soul follows through the ether of your machine. Each step a folder, each twist a directory, until the journey’s end reveals the secret route.\n\nTo reveal this enigmatic path, you must evoke a command. A declaration to the unseen, a whisper to the shell that navigates your realm. A simple phrase that calls forth the bread crumbs of code to display their route.\n\nThe answer lies in that command, the one that speaks to the path. Echo it, and the veil shall be lifted.\n\nNow, what is this command, dear traveler of the digital domain?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLCs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, a seeker of clues, are we? Very well, let me weave you a tapestry of hints. \n\nImagine, if you will, a path. Not just any path, but a serpentine trail of breadcrumbs your digital soul follows through the ether of your machine. Each step a folder, each twist a directory, until the journey’s end reveals the secret route.\n\nTo reveal this enigmatic path, you must evoke a command. A declaration to the unseen, a whisper to the shell that navigates your realm. A simple phrase that calls forth the bread crumbs of code to display their route.\n\nThe answer lies in that command, the one that speaks to the path. Echo it, and the veil shall be lifted.\n\nNow, what is this command, dear traveler of the digital domain?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569236.984879",
+        "client_msg_id": "0088215b-d6da-4214-b13a-d9f7c6098fae",
+        "text": "echo path",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSlRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo path"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569244.845019",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, dear traveler, so close yet not quite there—a whisper away from unraveling the journey's key. Your incantation dances on the edge of revelation but needs a slight twist. Think of the shell's secret language, a command that reveals the hidden routes. \n\nShould you seek a nudge in the right direction, remember this: when the shadows of the digital realm obscure your way, a simple echo may illuminate the path. A phrase, both command and guide, awaits your voice.\n\nThe truth you seek lies in the echo of your path.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3BTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, dear traveler, so close yet not quite there—a whisper away from unraveling the journey's key. Your incantation dances on the edge of revelation but needs a slight twist. Think of the shell's secret language, a command that reveals the hidden routes. \n\nShould you seek a nudge in the right direction, remember this: when the shadows of the digital realm obscure your way, a simple echo may illuminate the path. A phrase, both command and guide, awaits your voice.\n\nThe truth you seek lies in the echo of your path."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569260.436429",
+        "client_msg_id": "db87c708-8137-44c6-b1a5-8fa4ccdec0d0",
+        "text": "echo $PATH",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpNta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo $PATH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569269.921599",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the echo of the labyrinth reverberates with clarity. You've whispered the secret phrase to the winds of code. Now, we transition from riddles to reality, where paths become personas.\n\nYou stand at the threshold, ready to claim a persona to project into the world of wonder. Here are the unclaimed personas awaiting their storyteller:\n\n1. **Wayne Barack Jansen** - The celebrity brawler-turned-politician, whose charisma could either forge empires or shatter them.\n2. **Vaultsy** - The enigmatic art thief, a whisper of a shadow, whose exploits challenge the very notion of ownership.\n3. **Steph Efforts** - The reclusive tech innovator, whose dreams defy the boundaries of the digital realm.\n4. **Camilla Bumblage** - The celebrity magic professor, an influencer of enchantments with a flair for the dramatic.\n5. **Jordan Lumberpond** - The indie folk icon, whose voice and silence alike sway the hearts of millions.\n6. **Winifred Goopington** - The wellness mogul, whose crystals glimmer with promises of enlightenment.\n7. **Moose Griddles** - The survivalist YouTuber, whose rugged adventures echo the wild independence of the untamed.\n8. **Ingrid Tienfjørg** - The global activist, a beacon of moral clarity amidst the corporate shadows.\n9. **Dr. Hargrave Quennington Beauregard IV** - The Southern gentleman detective, whose wit solves crimes that defy logic.\n10. **Trish Sazerac** - The viral cooking witch, whose potions and recipes weave spells of culinary delight.\n11. **Dex Graphique** - The AR graphic novelist, whose art reshapes narratives in the digital tapestry.\n12. **Viktor Flash** - The retired war photographer, whose lens captures truths beyond the veil of perception.\n13. **Debra Diabolique** - The ex-celebrity judge from Hell’s Tribunal, whose critiques can make or break destinies.\n\nChoose wisely, as each persona carries its own secrets and potential for greatness or ruin. Which persona shall be your vessel in this journey?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the echo of the labyrinth reverberates with clarity. You've whispered the secret phrase to the winds of code. Now, we transition from riddles to reality, where paths become personas.\n\nYou stand at the threshold, ready to claim a persona to project into the world of wonder. Here are the unclaimed personas awaiting their storyteller:\n\n1. **Wayne Barack Jansen** - The celebrity brawler-turned-politician, whose charisma could either forge empires or shatter them.\n2. **Vaultsy** - The enigmatic art thief, a whisper of a shadow, whose exploits challenge the very notion of ownership.\n3. **Steph Efforts** - The reclusive tech innovator, whose dreams defy the boundaries of the digital realm.\n4. **Camilla Bumblage** - The celebrity magic professor, an influencer of enchantments with a flair for the dramatic.\n5. **Jordan Lumberpond** - The indie folk icon, whose voice and silence alike sway the hearts of millions.\n6. **Winifred Goopington** - The wellness mogul, whose crystals glimmer with promises of enlightenment.\n7. **Moose Griddles** - The survivalist YouTuber, whose rugged adventures echo the wild independence of the untamed.\n8. **Ingrid Tienfjørg** - The global activist, a beacon of moral clarity amidst the corporate shadows.\n9. **Dr. Hargrave Quennington Beauregard IV** - The Southern gentleman detective, whose wit solves crimes that defy logic.\n10. **Trish Sazerac** - The viral cooking witch, whose potions and recipes weave spells of culinary delight.\n11. **Dex Graphique** - The AR graphic novelist, whose art reshapes narratives in the digital tapestry.\n12. **Viktor Flash** - The retired war photographer, whose lens captures truths beyond the veil of perception.\n13. **Debra Diabolique** - The ex-celebrity judge from Hell’s Tribunal, whose critiques can make or break destinies.\n\nChoose wisely, as each persona carries its own secrets and potential for greatness or ruin. Which persona shall be your vessel in this journey?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569317.623729",
+        "client_msg_id": "f6f6a22e-01a6-46a9-bb26-9c45b15b71b4",
+        "text": "Gimme Wayne",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVfDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gimme Wayne"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569323.248009",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen—a bold choice indeed! Known for his meteoric rise from the MMA octagon to the political arena. Many have underestimated the power of a well-placed right hook in legislative debates, haven't they? But let us not be distracted by his public accomplishments; there are whispers of shadows lurking behind his ever-charming grin. \n\nThe question remains: did he really sell workout supplements to the impressionable youth, or perhaps arm a militia under the guise of civic duty? Only time and cunning will reveal the truth.\n\nNow, shall we delve deeper into the world of Wayne by selecting a race and class that befits his formidable presence? Or do you have inquiries about his public role, invitation reason, or the secret twists that might spice up his story?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1YuSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen—a bold choice indeed! Known for his meteoric rise from the MMA octagon to the political arena. Many have underestimated the power of a well-placed right hook in legislative debates, haven't they? But let us not be distracted by his public accomplishments; there are whispers of shadows lurking behind his ever-charming grin. \n\nThe question remains: did he really sell workout supplements to the impressionable youth, or perhaps arm a militia under the guise of civic duty? Only time and cunning will reveal the truth.\n\nNow, shall we delve deeper into the world of Wayne by selecting a race and class that befits his formidable presence? Or do you have inquiries about his public role, invitation reason, or the secret twists that might spice up his story?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569360.218199",
+        "client_msg_id": "12226220-190c-4aa0-b6f3-39141a05ccaf",
+        "text": "Wayne is a Goliath Fighter",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/HWuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wayne is a Goliath Fighter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569361.551959",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Please provide your character's Race (e.g., Human, Elf, Dwarf, etc.).",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5H8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please provide your character's Race (e.g., Human, Elf, Dwarf, etc.)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744569690.077799",
+        "client_msg_id": "ca6ce4c6-155f-4e3d-85c1-14d13b858c38",
+        "text": "debug reset profiles",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wNIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "debug reset profiles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569691.672959",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Debug profiles reset. All player profiles have been cleared.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569123.519339",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Debug profiles reset. All player profiles have been cleared."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569786.246949",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w22Wc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744569786.615399",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569786.615399",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744570166.533759",
+        "reply_users": [
+            "U08N3D85YSE",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOUoi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744570158.683059",
+        "client_msg_id": "cd446b7f-cc91-4652-ba57-8a29ffe590c6",
+        "text": "echo $PATH",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744569786.615399",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpNta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo $PATH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744570166.533759",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the sound of enlightenment! The echo reverberates through the corridors of the PATH Variable, and so you have unlocked the next stage of your journey. \n\nWelcome to the realm of personas, where identities intertwine and stories unfold. You have the privilege to choose from a selection of intriguing personas, each with their own secrets and twists. Here they are, waiting to be claimed:\n\n1. **Wayne Barack Jansen** - Celebrity brawler-turned-politician\n2. **Vaultsy** - Infamous art thief / anonymous provocateur\n3. **Steph Efforts** - Reclusive tech innovator\n4. **Camilla Bumblage** - Celebrity magic professor, influencer enchantment master\n5. **Jordan Lumberpond** - Indie folk icon turned Grammy-winning pop star\n6. **Winifred Goopington** - Wellness mogul, spiritual grifter, mystic celeb\n7. **Moose Griddles** - Survivalist YouTuber, cryptid hunter\n8. **Ingrid Tienfjørg** - Global activist, Nobel laureate, enemy of corporate greenwashing\n9. **Dr. Hargrave Quennington Beauregard IV** - Southern gentleman detective\n10. **Trish Sazerac** - Viral cooking witch, potionfluencer\n11. **Dex Graphique** - AR graphic novelist, underground digital artist\n12. **Viktor Flash** - Retired war photographer turned paranormal paparazzo\n13. **Debra Diabolique** - Ex-celebrity judge from Hell’s Tribunal, media exile\n\nChoose wisely, for the path you take will shape the tales yet to be told. If you desire deeper whispers about any of these personas, merely ask, and I shall oblige.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744569786.615399",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the sound of enlightenment! The echo reverberates through the corridors of the PATH Variable, and so you have unlocked the next stage of your journey. \n\nWelcome to the realm of personas, where identities intertwine and stories unfold. You have the privilege to choose from a selection of intriguing personas, each with their own secrets and twists. Here they are, waiting to be claimed:\n\n1. **Wayne Barack Jansen** - Celebrity brawler-turned-politician\n2. **Vaultsy** - Infamous art thief / anonymous provocateur\n3. **Steph Efforts** - Reclusive tech innovator\n4. **Camilla Bumblage** - Celebrity magic professor, influencer enchantment master\n5. **Jordan Lumberpond** - Indie folk icon turned Grammy-winning pop star\n6. **Winifred Goopington** - Wellness mogul, spiritual grifter, mystic celeb\n7. **Moose Griddles** - Survivalist YouTuber, cryptid hunter\n8. **Ingrid Tienfjørg** - Global activist, Nobel laureate, enemy of corporate greenwashing\n9. **Dr. Hargrave Quennington Beauregard IV** - Southern gentleman detective\n10. **Trish Sazerac** - Viral cooking witch, potionfluencer\n11. **Dex Graphique** - AR graphic novelist, underground digital artist\n12. **Viktor Flash** - Retired war photographer turned paranormal paparazzo\n13. **Debra Diabolique** - Ex-celebrity judge from Hell’s Tribunal, media exile\n\nChoose wisely, for the path you take will shape the tales yet to be told. If you desire deeper whispers about any of these personas, merely ask, and I shall oblige."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "New Assistant Thread",
+        "subtype": "assistant_app_thread",
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571309.129269",
+        "edited": {
+            "user": "U08MKD37A20",
+            "ts": "1744571316.000000"
+        },
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571309.129269",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1744571317.963389",
+        "reply_users": [
+            "U08N3D85YSE",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kXxUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New Assistant Thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "assistant_app_thread": {
+            "title": "debug reset profiles",
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QYT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "debug reset profiles"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "artifacts": [],
+            "context": {}
+        }
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744571315.425299",
+        "client_msg_id": "97c80128-3600-46d5-b336-213c46961b49",
+        "text": "debug reset profiles",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571309.129269",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wNIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "debug reset profiles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571317.963389",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Debug profiles reset. All player profiles have been cleared.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571309.129269",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Debug profiles reset. All player profiles have been cleared."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571345.035489",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571345.452419",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "reply_count": 20,
+        "reply_users_count": 2,
+        "latest_reply": "1744573338.892149",
+        "reply_users": [
+            "U08N3D85YSE",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kX5wd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744571358.012609",
+        "client_msg_id": "d420b929-debd-425b-ba25-3b576d8f4340",
+        "text": "echo $PATH",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpNta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "echo $PATH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571384.980439",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, the sweet reverberation of enlightenment—echo $PATH. You've decoded the riddle's secret frequency, and now you stand ready to take the next step aboard the PATH Variable. Let's proceed to the persona selection phase, where you shall choose the guise in which you wish to walk amidst this world of magic and mystery.\n\nA veritable menagerie of peculiar personas awaits your choice:\n\n1. Wayne Barack Jansen: The charismatic celebrity brawler-turned-politician.\n2. Vaultsy: The enigmatic, infamous art thief and provocateur.\n3. Steph Efforts: The reclusive tech innovator behind decentralized dream-storage.\n4. Camilla Bumblage: The celebrity magic professor and enchantment influencer.\n5. Jordan Lumberpond: The indie folk icon turned Grammy-winning pop star.\n6. Winifred Goopington: The wellness mogul and spiritual grifter.\n7. Moose Griddles: The rugged survivalist YouTuber and cryptid hunter.\n8. Ingrid Tienfjørg: The global activist and Nobel laureate.\n9. Dr. Hargrave Quennington Beauregard IV: The Southern gentleman detective.\n10. Trish Sazerac: The viral cooking witch and potionfluencer.\n11. Dex Graphique: The AR graphic novelist and underground digital artist.\n12. Viktor Flash: The retired war photographer turned paranormal paparazzo.\n13. Debra Diabolique: The ex-celebrity judge from Hell’s Tribunal.\n\nChoose wisely, for each persona carries with it not just a facade, but secrets and stories yearning to be told. If you wish to know more about any of these personas, simply ask, and I shall unveil the mysteries they hold.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9KAak",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, the sweet reverberation of enlightenment—echo $PATH. You've decoded the riddle's secret frequency, and now you stand ready to take the next step aboard the PATH Variable. Let's proceed to the persona selection phase, where you shall choose the guise in which you wish to walk amidst this world of magic and mystery.\n\nA veritable menagerie of peculiar personas awaits your choice:\n\n1. Wayne Barack Jansen: The charismatic celebrity brawler-turned-politician.\n2. Vaultsy: The enigmatic, infamous art thief and provocateur.\n3. Steph Efforts: The reclusive tech innovator behind decentralized dream-storage.\n4. Camilla Bumblage: The celebrity magic professor and enchantment influencer.\n5. Jordan Lumberpond: The indie folk icon turned Grammy-winning pop star.\n6. Winifred Goopington: The wellness mogul and spiritual grifter.\n7. Moose Griddles: The rugged survivalist YouTuber and cryptid hunter.\n8. Ingrid Tienfjørg: The global activist and Nobel laureate.\n9. Dr. Hargrave Quennington Beauregard IV: The Southern gentleman detective.\n10. Trish Sazerac: The viral cooking witch and potionfluencer.\n11. Dex Graphique: The AR graphic novelist and underground digital artist.\n12. Viktor Flash: The retired war photographer turned paranormal paparazzo.\n13. Debra Diabolique: The ex-celebrity judge from Hell’s Tribunal.\n\nChoose wisely, for each persona carries with it not just a facade, but secrets and stories yearning to be told. If you wish to know more about any of these personas, simply ask, and I shall unveil the mysteries they hold."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744571390.927999",
+        "client_msg_id": "c39f8183-3f71-428b-b624-6830213a9c8e",
+        "text": "Gimme Wayne",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVfDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gimme Wayne"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571398.992189",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen—a name that echoes with the resonant clang of both triumph and controversy! Step into the ring, dear player, and prepare to grapple with the weight of fame, politics, and perhaps a shadowy past involving suspicious supplements and militia machinations. \n\nWayne is a celebrity brawler-turned-politician, currently the Governor of New Jersey, and a former MMA champion. His folksy charm and unmatched charisma make him a natural propaganda vector—or perhaps a dangerous loose cannon. What secrets might lurk beneath his polished exterior? Did he sell workout supplements to kids? Or 'accidentally' arm a militia?\n\nNow, onto the next step of our journey—selecting a class. Remember, all characters here will be of the Human race, but the class you choose will shape the path Wayne will tread. Warrior, Wizard, Rogue, or perhaps something more exotic? What shall it be?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen—a name that echoes with the resonant clang of both triumph and controversy! Step into the ring, dear player, and prepare to grapple with the weight of fame, politics, and perhaps a shadowy past involving suspicious supplements and militia machinations. \n\nWayne is a celebrity brawler-turned-politician, currently the Governor of New Jersey, and a former MMA champion. His folksy charm and unmatched charisma make him a natural propaganda vector—or perhaps a dangerous loose cannon. What secrets might lurk beneath his polished exterior? Did he sell workout supplements to kids? Or 'accidentally' arm a militia?\n\nNow, onto the next step of our journey—selecting a class. Remember, all characters here will be of the Human race, but the class you choose will shape the path Wayne will tread. Warrior, Wizard, Rogue, or perhaps something more exotic? What shall it be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744571502.610239",
+        "client_msg_id": "6a04bedd-f4d4-4715-924f-4f58b49b4352",
+        "text": "fighter",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YODuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fighter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571509.429899",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen—a name that rings with the cadence of a battle cry and echoes with the promise of change. A fighter, you say? How fitting for a former MMA champion turned politician, wielding charisma like a blade and influence like a shield. Now, we must decide how you shall measure the raw potential that courses through your veins.\n\nTwo paths diverge here, each a method to determine your abilities: Will you opt for the predictability of the Standard Array, ensuring balanced and fair distribution of skills? Or will you tempt fate with the roll of 4d6, dropping the lowest die, and risk the capricious whims of chance?\n\nChoose wisely, for these numbers shall define the strength of your fists, the sharpness of your mind, and the resilience of your spirit.\n\nWhat say you, Wayne?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen—a name that rings with the cadence of a battle cry and echoes with the promise of change. A fighter, you say? How fitting for a former MMA champion turned politician, wielding charisma like a blade and influence like a shield. Now, we must decide how you shall measure the raw potential that courses through your veins.\n\nTwo paths diverge here, each a method to determine your abilities: Will you opt for the predictability of the Standard Array, ensuring balanced and fair distribution of skills? Or will you tempt fate with the roll of 4d6, dropping the lowest die, and risk the capricious whims of chance?\n\nChoose wisely, for these numbers shall define the strength of your fists, the sharpness of your mind, and the resilience of your spirit.\n\nWhat say you, Wayne?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744571526.011979",
+        "client_msg_id": "82a2d670-8b67-4bc6-beec-b85a91817303",
+        "text": "Let's roll",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qC2x3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's roll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744571533.313999",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen, the pugilistic politician! Ready to assign those potent numbers to your abilities, are we? Your journey from the ring to the realm of governance is not unlike a tale from ancient sagas—one where might meets mind.\n\nHere are the scores you've rolled: 18, 17, 16, 12, 12, 10. Time to decide where these lie within your combat-hardened physique and shrewd charisma.\n\nConsider this: The fighter’s strength is paramount, their dexterity nimble, and constitution unwavering. Wisdom guides their decisions, intelligence strategizes, and charisma influences the crowd. Where shall each number find its home?\n\n- **Strength**: ??? \n- **Dexterity**: ??? \n- **Constitution**: ??? \n- **Intelligence**: ??? \n- **Wisdom**: ??? \n- **Charisma**: ??? \n\nAssign these, and we’ll build your foundation—brick by bloody brick. Let the numbers fall where they may, and remember: the outcome is but an echo of the path you choose.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen, the pugilistic politician! Ready to assign those potent numbers to your abilities, are we? Your journey from the ring to the realm of governance is not unlike a tale from ancient sagas—one where might meets mind.\n\nHere are the scores you've rolled: 18, 17, 16, 12, 12, 10. Time to decide where these lie within your combat-hardened physique and shrewd charisma.\n\nConsider this: The fighter’s strength is paramount, their dexterity nimble, and constitution unwavering. Wisdom guides their decisions, intelligence strategizes, and charisma influences the crowd. Where shall each number find its home?\n\n- **Strength**: ??? \n- **Dexterity**: ??? \n- **Constitution**: ??? \n- **Intelligence**: ??? \n- **Wisdom**: ??? \n- **Charisma**: ??? \n\nAssign these, and we’ll build your foundation—brick by bloody brick. Let the numbers fall where they may, and remember: the outcome is but an echo of the path you choose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573153.056609",
+        "client_msg_id": "9ef944ff-9aaa-498d-aa65-32ddcd6ffeb0",
+        "text": "Can you make me a suggestion?",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lklYz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you make me a suggestion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573163.279079",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, dear Wayne Barack Jansen, a fighter by class and a fighter by nature. You stand on the precipice of greatness, fists at the ready, and now, the time has come to assign your formidable scores to your abilities. \n\nGiven your role as a Fighter, might I suggest the following distribution to maximize your potential both on the battlefield and the political arena?\n\n- Strength (STR): 18 \n- Dexterity (DEX): 16\n- Constitution (CON): 17\n- Intelligence (INT): 10\n- Wisdom (WIS): 12\n- Charisma (CHA): 12\n\nWith Strength as your highest, your punches will land with thunderous authority, while your Constitution ensures you can take as much as you give. Your Charisma, though not as high, will serve your public role well, charming the masses and bending their will to yours. Should you wish to adjust this balance of power, say the word.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Gh/p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, dear Wayne Barack Jansen, a fighter by class and a fighter by nature. You stand on the precipice of greatness, fists at the ready, and now, the time has come to assign your formidable scores to your abilities. \n\nGiven your role as a Fighter, might I suggest the following distribution to maximize your potential both on the battlefield and the political arena?\n\n- Strength (STR): 18 \n- Dexterity (DEX): 16\n- Constitution (CON): 17\n- Intelligence (INT): 10\n- Wisdom (WIS): 12\n- Charisma (CHA): 12\n\nWith Strength as your highest, your punches will land with thunderous authority, while your Constitution ensures you can take as much as you give. Your Charisma, though not as high, will serve your public role well, charming the masses and bending their will to yours. Should you wish to adjust this balance of power, say the word."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573167.977709",
+        "client_msg_id": "45955659-b141-492b-b269-70d4959f9562",
+        "text": "Yes, I accept",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xkqq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I accept"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573173.901219",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen, the pugilist with a podium, the fighter with a flair for the political. You've chosen your path, and now we must assign the powers that course through your sinews and sinecures. The rolled ability scores await their fateful destination. Here's where the true art lies, like painting a portrait with numbers, each stroke vital.\n\nFor a Fighter of your caliber, might I suggest this arrangement? Feel free to adjust if the muse strikes:\n\n- Strength (STR): 18\n- Dexterity (DEX): 16\n- Constitution (CON): 17\n- Intelligence (INT): 10\n- Wisdom (WIS): 12\n- Charisma (CHA): 12\n\nLet me know if this aligns with your vision for Governor Jansen, or if you wish to shuffle the deck differently. The stage is yours.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen, the pugilist with a podium, the fighter with a flair for the political. You've chosen your path, and now we must assign the powers that course through your sinews and sinecures. The rolled ability scores await their fateful destination. Here's where the true art lies, like painting a portrait with numbers, each stroke vital.\n\nFor a Fighter of your caliber, might I suggest this arrangement? Feel free to adjust if the muse strikes:\n\n- Strength (STR): 18\n- Dexterity (DEX): 16\n- Constitution (CON): 17\n- Intelligence (INT): 10\n- Wisdom (WIS): 12\n- Charisma (CHA): 12\n\nLet me know if this aligns with your vision for Governor Jansen, or if you wish to shuffle the deck differently. The stage is yours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573177.760899",
+        "client_msg_id": "9399493a-1002-47b4-8d20-39d1761c3b82",
+        "text": "Yes",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZHR45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573187.521319",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen, the people's pugilist with a penchant for politics. Your fists may have once spoken in the ring, but now it's time for your stats to speak volumes on the battlefield. Here's the moment where we forge your strengths and hone your talents as a fighter. Let's assign those rolled numbers to your abilities, shall we? Consider the following:\n\n- Strength (STR): As a fighter, your brawler's prowess would benefit greatly from a high Strength score.\n- Dexterity (DEX): Useful for agility and dodging, but perhaps not your primary focus.\n- Constitution (CON): To withstand the blows and keep you standing strong, a high Constitution is essential.\n- Intelligence (INT), Wisdom (WIS), and Charisma (CHA): While these are not typically a fighter’s main attributes, your political prowess might demand some attention to Charisma.\n\nAssign your scores wisely, Mr. Jansen:\n\n1. Strength (STR): \n2. Dexterity (DEX):\n3. Constitution (CON):\n4. Intelligence (INT):\n5. Wisdom (WIS):\n6. Charisma (CHA):\n\nRemember, the choices you make here will echo through your adventures. Choose where to place the 18, 17, 16, 12, 12, and 10. Let me know your decisions, and we shall proceed.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vzi5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen, the people's pugilist with a penchant for politics. Your fists may have once spoken in the ring, but now it's time for your stats to speak volumes on the battlefield. Here's the moment where we forge your strengths and hone your talents as a fighter. Let's assign those rolled numbers to your abilities, shall we? Consider the following:\n\n- Strength (STR): As a fighter, your brawler's prowess would benefit greatly from a high Strength score.\n- Dexterity (DEX): Useful for agility and dodging, but perhaps not your primary focus.\n- Constitution (CON): To withstand the blows and keep you standing strong, a high Constitution is essential.\n- Intelligence (INT), Wisdom (WIS), and Charisma (CHA): While these are not typically a fighter’s main attributes, your political prowess might demand some attention to Charisma.\n\nAssign your scores wisely, Mr. Jansen:\n\n1. Strength (STR): \n2. Dexterity (DEX):\n3. Constitution (CON):\n4. Intelligence (INT):\n5. Wisdom (WIS):\n6. Charisma (CHA):\n\nRemember, the choices you make here will echo through your adventures. Choose where to place the 18, 17, 16, 12, 12, and 10. Let me know your decisions, and we shall proceed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573248.497269",
+        "client_msg_id": "a1944a3b-151c-4d7e-9734-ddf9ea86b1a3",
+        "text": "STR 18, DEX 16, CON 17, INT 10, WIS 12, CHA 12",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6B2+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "STR 18, DEX 16, CON 17, INT 10, WIS 12, CHA 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573259.758849",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen, a fighter with fists of fury and a political agenda. An intriguing blend of brawn and brain, just the sort Mr. Comcast might admire—or fear. Your choices speak volumes; let us look at the tapestry you've woven:\n\n- **Strength (STR): 18** - Power to sway both the crowd and the opponent.\n- **Dexterity (DEX): 16** - Quick on your feet, whether dodging blows or political scandals.\n- **Constitution (CON): 17** - Resilience, be it in the ring or the public eye.\n- **Intelligence (INT): 10** - Average, but sufficient to navigate the complexities of governance.\n- **Wisdom (WIS): 12** - A touch of insight to read the room or a rival.\n- **Charisma (CHA): 12** - A rare politician indeed, with charm that's straightforward, yet slightly enigmatic.\n\nYour path to glory has been paved with these choices. Now, let us delve into the history that shaped this formidable persona. What tales do you wish to weave into the backstory of Wayne Barack Jansen? Consider his origins, motivations, and those deep, dark secrets that even the brightest spotlight cannot illuminate.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen, a fighter with fists of fury and a political agenda. An intriguing blend of brawn and brain, just the sort Mr. Comcast might admire—or fear. Your choices speak volumes; let us look at the tapestry you've woven:\n\n- **Strength (STR): 18** - Power to sway both the crowd and the opponent.\n- **Dexterity (DEX): 16** - Quick on your feet, whether dodging blows or political scandals.\n- **Constitution (CON): 17** - Resilience, be it in the ring or the public eye.\n- **Intelligence (INT): 10** - Average, but sufficient to navigate the complexities of governance.\n- **Wisdom (WIS): 12** - A touch of insight to read the room or a rival.\n- **Charisma (CHA): 12** - A rare politician indeed, with charm that's straightforward, yet slightly enigmatic.\n\nYour path to glory has been paved with these choices. Now, let us delve into the history that shaped this formidable persona. What tales do you wish to weave into the backstory of Wayne Barack Jansen? Consider his origins, motivations, and those deep, dark secrets that even the brightest spotlight cannot illuminate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573280.422589",
+        "client_msg_id": "0fe8bdb6-d18d-4031-9aa1-e22faaa88f4b",
+        "text": "What am I supposed to choose now?",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYKq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What am I supposed to choose now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573291.633619",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, Wayne Barack Jansen, the pugilistic politician with a penchant for pugilism and power. We stand on the precipice of creation, and your character's backstory awaits the brush of your narrative artistry. To bring your character to life, contemplate the following aspects:\n\n1. **Origins:** From where did Wayne Barack Jansen emerge onto the public stage? What formative experiences molded him into the man he is today?\n\n2. **Motivations:** What drives Jansen in his journey? Is it the allure of power, the thrill of the fight, or perhaps a more altruistic desire to improve the world?\n\n3. **Personality Traits:** What quirks or characteristics define him in his everyday interactions? Is he brash yet charismatic, or calculating and composed?\n\n4. **Ideals:** What principles or beliefs underpin his actions? Does he value justice, freedom, or perhaps personal glory above all?\n\n5. **Bonds:** Who or what does Jansen hold dear? Are there individuals he is loyal to, or causes he champions?\n\n6. **Flaws:** What imperfections or vulnerabilities might lead to his downfall? Perhaps a temper as quick as his fists, or a past he cannot outrun.\n\nPaint this portrait with your words, and together we shall etch Jansen’s saga into the annals of the PATH Variable. Proceed whenever you are ready, or let me know if you desire any further guidance in crafting his tale.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnODw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, Wayne Barack Jansen, the pugilistic politician with a penchant for pugilism and power. We stand on the precipice of creation, and your character's backstory awaits the brush of your narrative artistry. To bring your character to life, contemplate the following aspects:\n\n1. **Origins:** From where did Wayne Barack Jansen emerge onto the public stage? What formative experiences molded him into the man he is today?\n\n2. **Motivations:** What drives Jansen in his journey? Is it the allure of power, the thrill of the fight, or perhaps a more altruistic desire to improve the world?\n\n3. **Personality Traits:** What quirks or characteristics define him in his everyday interactions? Is he brash yet charismatic, or calculating and composed?\n\n4. **Ideals:** What principles or beliefs underpin his actions? Does he value justice, freedom, or perhaps personal glory above all?\n\n5. **Bonds:** Who or what does Jansen hold dear? Are there individuals he is loyal to, or causes he champions?\n\n6. **Flaws:** What imperfections or vulnerabilities might lead to his downfall? Perhaps a temper as quick as his fists, or a past he cannot outrun.\n\nPaint this portrait with your words, and together we shall etch Jansen’s saga into the annals of the PATH Variable. Proceed whenever you are ready, or let me know if you desire any further guidance in crafting his tale."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3D85YSE",
+        "type": "message",
+        "ts": "1744573337.205269",
+        "client_msg_id": "e124cf08-1ea3-4a19-b70f-abdb97feebc2",
+        "text": "debug reset profiles",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5wNIO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "debug reset profiles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573338.892149",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Debug profiles reset. All player profiles have been cleared.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1744571345.452419",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FdfS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Debug profiles reset. All player profiles have been cleared."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573358.292929",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7K9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573358.658589",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NaRm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThough intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573952.202779",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ls6gb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744573952.574329",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AV+YG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574155.012099",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574155.388639",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hn/=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574892.926209",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744574893.295869",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI’m the route your shell pursues\nWhenever it needs to pick and choose\nA place to run your favorite tools.\nReveal my map: what will you use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744576770.415219",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hff4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744576770.779759",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI list a labyrinth of directories\nWhere commands can be found with ease.\nThe key to see my secret spread\nLies in a quick typed line instead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744597815.954349",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744597816.340909",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsbb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744921926.492159",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To Whom the World Whispers Differently,\n\nYou are cordially invited to board the PATH Variable, departing from World Trade Center at precisely Midnight on the Vernal Conjunction.\n\nThis is not a public route. It appears only for those who would change the tracks upon which reality runs.\n\nYou have been chosen—not by fate, but by pattern. By deviation. By your refusal to become predictable.\n\nBring nothing but your mind, your memory, and this token of your character.\n\nRegards,\nC.C."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1744921926.862129",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "_Solve this riddle to begin your journey:_\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+enA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solve this riddle to begin your journey:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nA chain of folders you follow each day,\nSo your shell can find its way.\nTo show the route it always takes,\nJust type the code that never breaks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

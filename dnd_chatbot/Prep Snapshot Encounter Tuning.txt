@@ -1,0 +1,27 @@
+One-Shot Prep Snapshot: Encounter Tuning for “The PATH Variable” (Level 10, 5 PCs)
+
+You’ve got a fantastic premise packed with cinematic train cars, each with its own theme and mechanical/narrative challenges! Here’s how we can structure technical prep for smooth, rules-tight gameplay:
+
+Quick-View: Encounter Breakdown
+
+Car Theme	Encounter Type/Challenge	Key Mechanics
+Westworld Car	Social/Combat (Automata Outlaws)	Construct stats, skill challenge
+Casino Royale Car	High-Stakes Social/Skill (Poker Game)	Deception, Insight, Sleight of Hand
+Magical Express	Puzzle/Trap/Social (Cursed Confections)	Enchantment, random effects table
+Train to Busan	Combat (Zombie Horde)	High-action survival, minions
+Engine Car	Boss (Colm Cassidy/Mr. Comcast interface)	Legendary actions/lair, social
+Next Steps:
+
+Tailoring Encounter Difficulty
+With 5 level 10 characters, base combat encounters should target “Hard” to “Deadly” CR bands at peak; include alternatives (social, skill, puzzle) so not every car must be brute-forced.
+
+Car-by-Car Stat & Challenge Suggestions
+Let me know if you want a full block for each car, or if you’d prefer prep for the most likely problem-areas first (e.g. boss fight, zombie horde mechanics, automata with gunslinger stat blocks, etc.).
+
+Boss Prep
+Do you want Colm Cassidy to be statted as a traditional Artificer/Bard, or “transcended” with custom legendary/lair actions as the train’s rogue AI? Any specific powers/themes desired for “Mr. Comcast”?
+
+Safety & Pacing
+Any content concerns (e.g. addiction/gambling, horror/zombie violence), lines/veils I should help with infosec tools for?
+
+Prompt me for any specific room first, or I can begin with a default full prep of all five!
