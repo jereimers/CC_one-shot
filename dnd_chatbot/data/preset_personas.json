@@ -5,7 +5,7 @@
     "public_role": "Governor of New Jersey, former MMA champion, surprise presidential hopeful with a popular YouTube channel 'Fist of the People'",
     "invitation_reason": "His folksy charm and unmatched charisma make him a natural propaganda vector\u2014or a dangerous loose cannon.",
     "secret_or_twist": "Did he sell workout supplements to kids? Did he 'accidentally' arm a militia?",
-    "claimed": false,
+    "claimed": true,
     "class": "Fighter",
     "ability_scores": [
       16,

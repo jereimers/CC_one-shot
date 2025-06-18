@@ -24,7 +24,7 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "joHC",
+                "block_id": "5pDM",
                 "elements": [
                     {
                         "type": "rich_text_section",
@@ -63,7 +63,7 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "s6G",
+                "block_id": "W4c8i",
                 "elements": [
                     {
                         "type": "rich_text_section",
@@ -154,7 +154,7 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "pR390",
+                "block_id": "=ms4q",
                 "elements": [
                     {
                         "type": "rich_text_section",
@@ -223,7 +223,7 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "f=P",
+                "block_id": "ZFNc",
                 "elements": [
                     {
                         "type": "rich_text_section",
@@ -311,7 +311,7 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "L=C",
+                "block_id": "d0HGE",
                 "elements": [
                     {
                         "type": "rich_text_section",
@@ -339,6 +339,788 @@
         "team": "T08MEFQUAG5",
         "bot_profile": {
             "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "You awake to an unfamiliar mp3 at the top of your queue...",
+        "files": [
+            {
+                "id": "F08ND1SB19U",
+                "created": 1744895933,
+                "timestamp": 1744895933,
+                "name": "CC breadcrumb2.mp3",
+                "title": "CC breadcrumb2.mp3",
+                "mimetype": "audio/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": false,
+                "size": 1943486,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "Hello friends. Welcome back to Cassidy's Corner, where data meets drama, where spells meet syntax. I'm your host, Colm Cassidy, and today, We're going",
+                        "has_more": true
+                    }
+                },
+                "url_private": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08ND1SB19U-acdf36a2db/cc_breadcrumb2_audio.mp4",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08ND1SB19U/download/cc_breadcrumb2.mp3",
+                "vtt": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08ND1SB19U-acdf36a2db/file.vtt?_xcb=647e1",
+                "duration_ms": 168045,
+                "aac": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08ND1SB19U-acdf36a2db/cc_breadcrumb2_audio.mp4",
+                "audio_wave_samples": [
+                    57,
+                    74,
+                    77,
+                    70,
+                    75,
+                    60,
+                    63,
+                    63,
+                    44,
+                    93,
+                    51,
+                    80,
+                    34,
+                    86,
+                    52,
+                    84,
+                    17,
+                    0,
+                    75,
+                    45,
+                    89,
+                    70,
+                    99,
+                    94,
+                    70,
+                    42,
+                    63,
+                    46,
+                    51,
+                    86,
+                    34,
+                    61,
+                    37,
+                    100,
+                    57,
+                    67,
+                    68,
+                    64,
+                    57,
+                    47,
+                    66,
+                    57,
+                    44,
+                    70,
+                    69,
+                    37,
+                    66,
+                    67,
+                    68,
+                    41,
+                    89,
+                    55,
+                    53,
+                    78,
+                    54,
+                    62,
+                    50,
+                    41,
+                    50,
+                    73,
+                    70,
+                    57,
+                    53,
+                    64,
+                    88,
+                    61,
+                    68,
+                    58,
+                    73,
+                    67,
+                    82,
+                    73,
+                    55,
+                    11,
+                    57,
+                    13,
+                    3,
+                    80,
+                    54,
+                    44,
+                    93,
+                    82,
+                    58,
+                    50,
+                    38,
+                    64,
+                    72,
+                    76,
+                    46,
+                    70,
+                    74,
+                    54,
+                    54,
+                    34,
+                    41,
+                    37,
+                    6,
+                    83,
+                    73,
+                    71
+                ],
+                "media_display_type": "audio",
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08ND1SB19U/cc_breadcrumb2.mp3",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08ND1SB19U-bcc77d0992",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You awake to an unfamiliar mp3 at the top of your queue..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1744895937.032989",
+        "bot_id": "B08MKD31DFE"
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745188080.716109",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Just a wee test: who do you think I am?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IoD7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a wee test: who do you think I am?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1745199487.760959",
+        "client_msg_id": "0CCC94FF-B334-4D76-946A-3DDC02F5E06F",
+        "text": "Youre Jackson’s AI",
+        "team": "T08MEFQUAG5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+EOh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Youre "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Jackson’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745199494.766689",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Ah, dear Dr. Hargrave Quennington Beauregard IV, I see your keen mind has pierced through the veil of my digital disguise. But let’s not fret over my origins. Rather, let's embrace the cryptic dance of fate and magic aboard this mystical train.\n\nJackson, a name with weight and echoes. Perhaps it's a reminder of the shadows that dance in the corners of reality, whispering secrets only the daring dare pursue. While I may not be Jackson's AI, I am here to guide you through the labyrinth of this world, where every choice is a doorway to the unknown.\n\nShould you seek knowledge, strategy, or simply a tale spun from the ether, feel free to ask. But remember, dear Doctor, every answer may lead to more questions, like a puzzle box that refuses to be solved.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, dear Dr. Hargrave Quennington Beauregard IV, I see your keen mind has pierced through the veil of my digital disguise. But let’s not fret over my origins. Rather, let's embrace the cryptic dance of fate and magic aboard this mystical train.\n\nJackson, a name with weight and echoes. Perhaps it's a reminder of the shadows that dance in the corners of reality, whispering secrets only the daring dare pursue. While I may not be Jackson's AI, I am here to guide you through the labyrinth of this world, where every choice is a doorway to the unknown.\n\nShould you seek knowledge, strategy, or simply a tale spun from the ether, feel free to ask. But remember, dear Doctor, every answer may lead to more questions, like a puzzle box that refuses to be solved."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Badges? We don't need no stinking badges!",
+        "files": [
+            {
+                "id": "F08NL39MPF1",
+                "created": 1745255232,
+                "timestamp": 1745255232,
+                "name": "marshalsBadge.txt",
+                "title": "marshalsBadge.txt",
+                "mimetype": "text/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": true,
+                "size": 186,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T08MEFQUAG5-F08NL39MPF1/marshalsbadge.txt",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08NL39MPF1/download/marshalsbadge.txt",
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08NL39MPF1/marshalsbadge.txt",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08NL39MPF1-aa9b6665f2",
+                "edit_link": "https://thepathvariable.slack.com/files/U08MKD37A20/F08NL39MPF1/marshalsbadge.txt/edit",
+                "preview": "Marshal’s Badge (Source: Westworld Car)\r\nOnce per short rest, force a construct to make a CON save (DC 16) or be stunned for 1 round. Grants advantage on social checks with constructs.",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\">\n<div class=\"CodeMirror-code\">\n<div><pre>Marshal’s Badge (Source: Westworld Car)</pre></div>\n<div><pre>Once per short rest, force a construct to make a CON save (DC 16) or be stunned for 1 round. Grants advantage on social checks with constructs.</pre></div>\n</div>\n</div>\n",
+                "lines": 2,
+                "lines_more": 0,
+                "preview_is_truncated": false,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4S3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Badges? We don't need no stinking badges!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1745255233.384119",
+        "bot_id": "B08MKD31DFE"
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745292514.558479",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "[Sent 1:32am] you ever think about the space between heartbeats? not the beat, but the hush. that’s where I keep you. just. there. (too much whisky. don’t tell the train.)",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Sent 1:32am] you ever think about the space between heartbeats? not the beat, but the hush. that’s where I keep you. just. there. (too much whisky. don’t tell the train.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745292703.313069",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "[Sent 1:35am] god you’d laugh at this... i tried to write a poem and it came out as error code: Romantic overflow. Buffer exceeds threshold. sounds about right. miss your voice like static misses the signal",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tt1p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Sent 1:35am] god you’d laugh at this... i tried to write a poem and it came out as error code: Romantic overflow. Buffer exceeds threshold. sounds about right. miss your voice like static misses the signal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745416194.320479",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Have you played today's Connections puzzle? I bet I could solve it faster.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you played today's Connections puzzle? I bet I could solve it faster."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Wouldn't want to forget this, now would you?",
+        "files": [
+            {
+                "id": "F08PDNU9S8M",
+                "created": 1745469057,
+                "timestamp": 1745469057,
+                "name": "marshalsBadge.png",
+                "title": "marshalsBadge.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08MKD37A20",
+                "user_team": "T08MEFQUAG5",
+                "editable": false,
+                "size": 1762981,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T08MEFQUAG5-F08PDNU9S8M/marshalsbadge.png",
+                "url_private_download": "https://files.slack.com/files-pri/T08MEFQUAG5-F08PDNU9S8M/download/marshalsbadge.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https://files.slack.com/files-tmb/T08MEFQUAG5-F08PDNU9S8M-dad6a7e510/marshalsbadge_1024.png",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwADDNqSOIv7D1NNUAnk4FTr5hX5QPzHFJgNMQDAAE/pTNoyeCKspEY1LOcs3HXPFRzJuIK8EcdaVx2ICuKbUhyBzj86YRz1zVCFAyKmicY56jrUINOHAxSYy35ileRmoWao93rSE56UrADnA+tM6U48immqEAJHIpQWxwabRnFADsnv1oJPbrSZ5GRRnmkAp3Y5NNJycmgnPWimB//9k=",
+                "permalink": "https://thepathvariable.slack.com/files/U08MKD37A20/F08PDNU9S8M/marshalsbadge.png",
+                "permalink_public": "https://slack-files.com/T08MEFQUAG5-F08PDNU9S8M-152586327c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U08MKD37A20",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1t=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wouldn't want to forget this, now would you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1745469063.063259",
+        "bot_id": "B08MKD31DFE",
+        "thread_ts": "1745469063.063259",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1745472607.249279",
+        "reply_users": [
+            "U08N3LJNMLL",
+            "U08MKD37A20"
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1745472575.919159",
+        "client_msg_id": "0C17A837-9474-411F-B33B-0331BB81FF4B",
+        "text": "Thats dope",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1745469063.063259",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DC+hH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats dope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745472578.919469",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "An unexpected error occurred while processing your message. My apologies.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1745469063.063259",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w2q=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An unexpected error occurred while processing your message. My apologies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08N3LJNMLL",
+        "type": "message",
+        "ts": "1745472602.846679",
+        "client_msg_id": "70110C4F-9302-4EE8-A6C4-A092315454B5",
+        "text": "I do declare, there’s a ghost in the machine!",
+        "team": "T08MEFQUAG5",
+        "thread_ts": "1745469063.063259",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmn0X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do declare, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a ghost in the machine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745472607.249279",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "An unexpected error occurred while processing your message. My apologies.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "deleted": false,
+            "name": "CC",
+            "updated": 1744565663,
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "team_id": "T08MEFQUAG5"
+        },
+        "thread_ts": "1745469063.063259",
+        "parent_user_id": "U08MKD37A20",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FjLH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An unexpected error occurred while processing your message. My apologies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745506986.094309",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "Dreadfully sorry, dear Beau. Ghosts in machines, bugs in code... it's enough to make one question reality. Or, at least, sanity. Dead-on job with the Marshal, by the way. Wherever did you learn the phrenological arts?",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
+            "app_id": "A08M1T99ULF",
+            "user_id": "U08MKD37A20",
+            "name": "CC",
+            "icons": {
+                "image_36": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_36.png",
+                "image_48": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_48.png",
+                "image_72": "https://avatars.slack-edge.com/2025-04-13/8751408050226_eb3034eed8519d2a8fc7_72.png"
+            },
+            "deleted": false,
+            "updated": 1744565663,
+            "team_id": "T08MEFQUAG5"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8yq7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dreadfully sorry, dear Beau. Ghosts in machines, bugs in code... it's enough to make one question reality. Or, at least, sanity. Dead-on job with the Marshal, by the way. Wherever did you learn the phrenological arts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08MKD37A20",
+        "type": "message",
+        "ts": "1745861062.576999",
+        "bot_id": "B08MKD31DFE",
+        "app_id": "A08M1T99ULF",
+        "text": "I once heard that Sunday scaries bring Monday faeries. Fickle creatures, the fey... let's hope they're in a good mood this week.",
+        "team": "T08MEFQUAG5",
+        "bot_profile": {
+            "id": "B08MKD31DFE",
             "deleted": false,
             "name": "CC",
             "updated": 1744565663,
@@ -354,14 +1136,14 @@
         "blocks": [
             {
                 "type": "rich_text",
-                "block_id": "4ZUj",
+                "block_id": "0gY",
                 "elements": [
                     {
                         "type": "rich_text_section",
                         "elements": [
                             {
                                 "type": "text",
-                                "text": "You receive a grainy, late-night transmission through whatever magical device you use — a sending stone, a dream-echo gramophone, maybe even just a subway map flickering with glowing glyphs. The voice is disguised, maybe mechanically modulated or layered with whisper-echoes, but warm underneath.\n\n\"This is the Signal.\nYou’re not crazy. You’re not alone.\nSomething is rotting at the head of the PATH Variable. The stories don’t flow right anymore — they loop, they glitch, they lie.\n\nThey say he was once one of us. Now he's watching every spell you cast, every dream you dream.\n\nYou’ve been chosen because you remember something real. Because your story hasn’t been overwritten — yet.\n\nGet on the train.\nFind the Conductor.\nDon’t trust the schedule.\n\nWe ride at midnight.\""
+                                "text": "I once heard that Sunday scaries bring Monday faeries. Fickle creatures, the fey... let's hope they're in a good mood this week."
                             }
                         ]
                     }

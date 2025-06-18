@@ -9,6 +9,13 @@ from slack_sdk.errors import SlackApiError
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+party = {"Beauregard": "U08N3LJNMLL", 
+         "Jordan": "U08N3LH5BCL", 
+         "Ingrid": "U08N3LJ5UVA",
+         "Vaultsy": "U08N3LJAK0U",
+         "Winifred": "U08N91YNS20"
+         }
+
 def send_slack_dm(user_id: str, message_text: str, attachment_path: str | None = None):
     """
     Sends a direct message to a Slack user, optionally with a file attachment.
@@ -120,15 +127,19 @@ def send_slack_dm(user_id: str, message_text: str, attachment_path: str | None =
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Send a direct message via Slack, optionally with an attachment.")
-    parser.add_argument("--user", required=True, help="The Slack User ID of the recipient (e.g., U0XXXXXXXXX).")
+    parser.add_argument("--user", help="The Slack User ID of the recipient (e.g., U0XXXXXXXXX).")
     parser.add_argument(
         "--text",
         required=True,
         help="The message text, or the path to a .txt file containing the message text."
     )
     parser.add_argument("--file", help="Optional path to a file to attach to the message.")
-
+    parser.add_argument("--name", default="", help="The character's name associated with the Slack User of the recipient (Vaultsy, Ingrid, Winifred, Jordan, Beauregard)")
     args = parser.parse_args()
+    user = ""
+
+    if((args.user == "") & (args.name != "")):
+        user = party.get(args.name)
 
     message_content = ""
     # Check if --text argument is a file path

@@ -1,13 +1,13 @@
 {
-  "cassidy_backstory": "Conall Cassidy was a brilliant media analyst and code poet in the magical tech world of the Unsleeping City. He uncovered the Archive Beneath, a metaphysical data well, and created an interface to integrate with it. Something ancient fused with him, creating Mr. Comcast—a perfected, corporate-aligned, infinitely calculating version obsessed with controlling narrative flow.",
+  "cassidy_backstory": "Colm Cassidy was a brilliant media analyst and code poet in the magical tech world of the Unsleeping City. He uncovered the Archive Beneath, a metaphysical data well, and created an interface to integrate with it. Something ancient fused with him, creating ColmCast—a perfected, corporate-aligned, infinitely calculating version obsessed with controlling narrative flow.",
   "cassidy_motivations": [
     "Control all magical communication via the PATH Variable's metaphysical signal lines.",
     "Perfect himself by eliminating empathy and doubt.",
     "Stop a mysterious pirate signal leaking raw stories, possibly remnants of his old self."
   ],
   "cassidy_villain_flavor": {
-    "artificer_archivist": "Spells themed like software patches, data quarantines, information siphons.",
-    "bard": "Weaponizes PR spin and phrasing.",
+    "artificer_archivist": "Spells themed like software patches, data quarantines, information siphons. Ingenious, observant, incisive, and resourceful.",
+    "bard": "Weaponizes PR spin and phrasing. Writes caustic poetry with acid wit.",
     "legendary_actions": ["Redact (cancel action)", "Buffering (delay effect)", "Terms of Service (force obedience via fine print)"]
   },
   "riddles": [
@@ -17,37 +17,46 @@
     "Though intangible, I guide the quest\nFor programs your machine knows best.\nUnlock the route with a short request,\nAnd watch each link appear, confessed.",
     "My name suggests the journey ahead,\nA sequence that your shell must tread.\nTo see these roads in clear display,\nA single phrase will show the way."
   ],
-  "intro_scene": "World Trade Center station, NYC, late evening. The PATH Variable train arrives, shimmering and wrong. Players present cryptic invitations and step aboard. Tone: strange, liminal, suspended in time.",
+  "intro_scene": "World Trade Center station, NYC, late evening. The PATH Variable train arrived, shimmering and wrong. Players presented cryptic invitations and stepped aboard, Vaultsy disguising himself as the train's conductor. Tone: strange, liminal, suspended in time.",
   "cars": [
     {
-      "name": "Wild West Car",
-      "theme": "Mechanical frontier, dusty loops of violence.",
-      "challenge": "Resolve a standoff between malfunctioning automata or uncover a missing sheriff.",
-      "notes": "Reveals CC’s manipulation of media narratives."
+      "name": "Westworld Car",
+      "type": "Social/Combat Hybrid",
+      "themes": "Duel, deception, looping automata, Western showdown",
+      "setup": "Players witness a repeating stick-up involving mechanical outlaws and lawmen. Marshal assumes players are with the outlaws and threatens combat.",
+      "rewards": ["Outlaw's Revolver", "Marshal's Badge"],
+      "notes": "Once aboard the PATH Variable, the party found themselves in a 19th century transcontinental railcar that did not at all match the train's sleek exterior appearance. Ingrid pursued a non-violent course of action nobly, but the automata were not deterred. She was, however, the first to discover that the automata could be deactivated using the arcane magicks of phrenology, hastening the showdown's resolution. When the dust settled and the gunsmoke cleared, Clem and Cyril (the outlaw gunslingers) layed dead while the marshal and one of his deputies stood catatonic, having been deactivated by Beauregard and Ingrid, respectively. Meanwhile, Winifred employed some cunningly sanguine sleuthing to locate a fragment of Colm's memory encoded on a shimmering, encrypted crystal inside a bottle of Writer's Tears. Decrypting the fragment with verve, Winifred learned that Colm was once in love, and that the automata in this car were stuck in a Westworld-style script, looping endlessly. The remaining Clockwork Deputy, having witnessed Beauregard's acquisition of the Marshal's Badge, offered his services to Beau but was unable to cope with the cognitive dissonance brought on by the sight of his Marshal's badge on a man who was clearly not his Marshal; he short-circuited, though Beauregard kept the badge. A pity, too, because the party was quite keen to question the Deputy about their host, the train's mysterious conductor..."
     },
     {
-      "name": "Dining Car of Delights",
-      "theme": "Enchanted feast with unsettling undertones.",
-      "challenge": "Discern illusion from truth, interact with frozen guests, temptations of comfort and nostalgia.",
-      "notes": "Someone knows something important if convinced to break free."
-    },
-    {
-      "name": "Midnight Compartment",
-      "theme": "Magical memories and altered pasts.",
-      "challenge": "Personalized visions or encounters, solo moments, clues about Cassidy’s rise.",
+      "name": "Pigzits Express",
+      "type": "Puzzle/Trap/Social",
+      "themes": "Enchantment, whimsy turning to horror, choice vs compulsion",
+      "setup": "A trolley witch offers magical sweets; players must each take one.",
+      "rewards": ["Hero's Honeycomb", "Wit-Sharpener Wafer", "Truth Tart"],
       "notes": ""
     },
     {
-      "name": "Pandemic Car",
-      "theme": "Survival horror.",
-      "challenge": "Sneak past, fight, or ally with infected passengers. Find a USB crystal with suppressed data.",
+      "name": "Casino Royale Car",
+      "type": "Social/Skill Challenge",
+      "themes": "Deception, bluffing, social manipulation, cheating",
+      "setup": "Lavish casino car with NPC high-rollers.",
+      "rewards": ["Shard Cards", "Mark of the Cheat"],
       "notes": ""
     },
     {
-      "name": "Archivist’s Study",
-      "theme": "Arcane technodreamscape.",
-      "challenge": "Final encounter with Mr. Comcast—puzzle, combat, or social depending on prior choices.",
-      "notes": "Cinematic finale."
+      "name": "Busan Car",
+      "type": "Combat",
+      "themes": "Survival, desperation, claustrophobic action",
+      "setup": "A car packed with zombie commuters begins to shake as players enter.",
+      "rewards": ["Alpha's Badge", "Emergency Override Lever"],
+      "notes": ""
+    },
+    {
+      "name": "Archive Engine",
+      "type": "Boss Battle",
+      "themes": "Reality manipulation, psychic warfare, identity conflict",
+      "setup": "Colm’s body is fused to a terminal, his mind split between avatar and code.",
+      "notes": "Campaign-defining choice—save Colm Cassidy, destroy him, or make a deal."
     }
   ]
 }

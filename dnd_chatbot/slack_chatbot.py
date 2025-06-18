@@ -175,19 +175,19 @@ def handle_message(message_text, user_id):
     profile = PLAYER_PROFILES.get(user_id, {}) # Get temporary creation data
     status = profile.get("creation_status", "unknown")
 
-    character_summary = "No active character session."
-    if character: # If character object exists
-        try:
-            level = getattr(character, 'level', 0)
-            # Race is stored as 'species' in the library's Character object
-            species = getattr(character, 'species', 'N/A')
-            char_class = getattr(character, 'class_name', 'N/A') # class_name seems correct based on source
-            character_summary = f"Character Summary: Level {level}, Race: {species}, Class: {char_class}"
-        except Exception as e:
-            logger.error(f"Error summarizing character state for {user_id}: {e}")
-            character_summary = "Error retrieving character summary."
-    elif status != "unknown" and status != "needs_welcome": # If in creation process but not instantiated
-         character_summary = f"Character Creation Stage: {status}"
+    # character_summary = "No active character session."
+    # if character: # If character object exists
+    #     try:
+    #         level = getattr(character, 'level', 0)
+    #         # Race is stored as 'species' in the library's Character object
+    #         species = getattr(character, 'species', 'N/A')
+    #         char_class = getattr(character, 'class_name', 'N/A') # class_name seems correct based on source
+    #         character_summary = f"Character Summary: Level {level}, Race: {species}, Class: {char_class}"
+    #     except Exception as e:
+    #         logger.error(f"Error summarizing character state for {user_id}: {e}")
+    #         character_summary = "Error retrieving character summary."
+    # elif status != "unknown" and status != "needs_welcome": # If in creation process but not instantiated
+    #      character_summary = f"Character Creation Stage: {status}"
 
 
     # 1. Retrieve context using RAG
@@ -533,7 +533,7 @@ def handle_message_events(body: Dict[str, Any], say: Say, logger: Logger, client
         # If user is not in creation process and no active character session, start it
         # This block is now less likely to be hit due to the check at the start of the DM handler,
         # but kept as a fallback. It should ideally not call initiate_character_creation again.
-        if status in ["unknown", "character_created", "needs_welcome", "initiation_failed"] and user_id not in CHARACTER_SESSIONS:
+        if status in ["unknown", "needs_welcome", "initiation_failed"] and user_id not in CHARACTER_SESSIONS:
              logger.warning(f"User {user_id} reached state machine start without proper initiation. Attempting persona selection prompt.")
              # Initialize profile for creation with persona selection state (or reset if failed)
              PLAYER_PROFILES[user_id] = {

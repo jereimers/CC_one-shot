@@ -32,7 +32,8 @@
         "charisma": 12
       }
     },
-    "backstory_notes": ""
+    "backstory_notes": "",
+    "inventory": "Marshal's Badge"
   },
   "U08N3LH5BCL": {
     "creation_status": "character_created",
@@ -67,7 +68,7 @@
         "charisma": 13
       }
     },
-    "backstory_notes": ""
+    "backstory_notes": "Origins: \u2022 Grew Up In Appalachia to a Large Farming Family \u2022 Fell in Love With Music When He Saw a Traveling Band at the County Fair as a Child \u2022 Learned Banjo &amp; Fiddle From Those County Fair Bands &amp; Started Traveling When He Was Young \u2022 Was a Natural Born Talent, But His Agent Told Him He Had to Change His Sound to Make it Big. \u2022 Joined a Boy Band &amp; Traveled With Them For Several Years, Loosing His Roots &amp; Soul In The Process. \u2022 After the Band Disbanned, He Tried Going Solo and Was Moderately Successful, But Petered Out. \u2022 Now He\u2019s a Washed Up Hazbin Who Makes Just Enough Money Playing and Doing Stand Up in Hole In The Wall Bars to Feed His Alcoholism. Motivations: \u2022 He\u2019ll Do Anything to Gain the Attention of Others, Whether it Be Good or Bad \u2022 He\u2019s Constantly Chasing New Things to Give Him The High He Once Felt as a Performer. Flaws: \u2022 Functioning Alcoholic \u2022 Overconfident, Arrogant, Prideful"
   },
   "U08N3LJ5UVA": {
     "creation_status": "character_created",
@@ -172,6 +173,50 @@
         "charisma": 13
       }
     },
+    "backstory_notes": "I discovered my gift by making candles at home with a glass of wine. I was watching the Real Housedruids of Paladin and wanted to make a candle to make my private parts more pretty. As I was watching some of the druids fight over dumb rich things, my eyes rolled back and the candle started to glow. It enchanted EVEYRTHING in the room if you know what I mean. Since then Ive grown this into a huge business. Self - Improvement: I want to use my empire as a way to cure all wounds, but only ones that arent necessarily moral, and really more non-essential to the normal person. However, vanity can morph into confidence, and that confidence can shape the way you live your life forever! Flaw: I am a pretty blunt person! I tell it how it is even if its a secret thats supposed to be sacred. Although charming at times, it does become problematic!",
+    "inventory": "Colm's Memory Fragment - Writer's Tears"
+  },
+  "USLACKBOT": {
+    "creation_status": "awaiting_riddle_answer",
+    "creation_data": {},
+    "backstory_notes": ""
+  },
+  "U08MEFQUD7X": {
+    "creation_status": "creator",
+    "creation_data": {"persona": {
+        "name": "Colm Cassidy",
+        "archetype": "Code poet, heartsick artificer, mad genius",
+        "public_role": "Conductor of the Archive Engine",
+        "invitation_reason": "The Creator needs not an invitation to his own event.",
+        "secret_or_twist": "[REDACTED]",
+        "claimed": true,
+        "class": "Archivist Artificer + Bard",
+        "ability_scores": [
+          9,
+          13,
+          14,
+          12,
+          15,
+          13
+        ],
+        "background": "sage"
+      },
+      "class_key": "Archivist Artificer",
+      "background": "Sage",
+      "species": "Human",
+      "ability_scores": {
+        "strength": 9,
+        "dexterity": 13,
+        "constitution": 14,
+        "intelligence": 12,
+        "wisdom": 15,
+        "charisma": 13
+      }},
+    "backstory_notes": "Optimize and obey."
+  },
+  "U08N3D85YSE": {
+    "creation_status": "ignore",
+    "creation_data": {},
     "backstory_notes": ""
   }
 }
