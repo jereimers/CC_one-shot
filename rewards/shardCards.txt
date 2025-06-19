@@ -1,2 +1,0 @@
-Shard Cards (Source: Casino Royale Car)
-Once per long rest, cast Synaptic Static (DC 18, 8d6 psychic, 20 ft. radius). Affects constructs and avatars.

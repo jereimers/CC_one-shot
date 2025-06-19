@@ -1,2 +1,0 @@
-Emergency Override Lever (Source: Train to Busan Car)
-Once per encounter, force ColmCast to negate a legendary action use.

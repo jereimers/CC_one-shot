@@ -1,4 +1,0 @@
-name: dnd_chatbot_env
-channels:
-  - defaults
-prefix: /opt/conda/envs/dnd_chatbot_env

@@ -1,5 +1,0 @@
-Name,Type,AC,HP,Speed,Stats,Saving Throws,Skills,Damage Resistances,Condition Immunities,Senses,Languages,Abilities,Actions
-Cursed Trolley Witch,Medium Construct (Enchanted Spirit),15,60,"30 ft, fly 20 ft","STR 8, DEX 14, CON 12, INT 16, WIS 16, CHA 18","WIS +6, CHA +7","Arcana +6, Persuasion +7, Insight +6",Psychic; Bludgeoning from nonmagical weapons,"Charmed, Frightened",Passive Perception 13,"Common, Elvish","Magical Candy Compulsion: Once per player, can cast a flavored Suggestion (DC 15 WIS): 'You really want to try that candy, don’t you?' If resisted 3 times total, the witch begins to glitch and lose power.
-Constructed Enchantment: Cannot be truly destroyed unless the curse binding her is broken (Dispel Magic DC 16 or emotional resolution).","Spellcasting: Spell save DC 15, +7 to hit. Can cast:
-• Hold Person (1/day), Sleep (1/day), Suggestion (2/day)
-• Minor Illusion, Mage Hand, Charm Person (at will)"
